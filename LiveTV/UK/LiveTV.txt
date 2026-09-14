@@ -92,6 +92,11 @@ URL: https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 Logo: https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: Planet Fun (1080p)
+URL: http://66.102.126.10:8000/play/a02k/index.m3u8
+Logo: https://i.imgur.com/5U1iKUq.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Sabrina The Teenage Witch
 URL: https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 Logo: https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png
@@ -338,8 +343,8 @@ URL: https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 Logo: https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Magna Vision (1080p)
-URL: https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+Name: Magnavision TV (720p)
+URL: https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 Logo: https://i.imgur.com/mUHixbi.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -1021,8 +1026,8 @@ URL: https://faithworldtv.abs.tv/1826926230/index.m3u8
 Logo: https://i.imgur.com/RLHRjQ3.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: GOD TV (396p)
-URL: https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+Name: GOD TV (576p)
+URL: https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 Logo: https://i.imgur.com/hW4g2oe.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -1109,6 +1114,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Noor TV (720p)
 URL: https://sscsott.com/srt/noortvuk/index.m3u8
 Logo: https://i.imgur.com/DlKgIuQ.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Panjab TV (576p)
+URL: https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1041.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Safeer TV (1080p)
@@ -1362,36 +1372,6 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Pluto TV Snooker 900 (720p)
 URL: https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 Logo: https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports Cricket
-URL: https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: Sky Sports Cricket HD (1080p)
-URL: https://xemzi.short.gy/2000006
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: Sky Sports F1 HD (720p)
-URL: http://188.138.29.131/skysportsf1/index.m3u8
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: Sky Sports Golf HD (720p)
-URL: http://188.138.29.131/skygolf/index.m3u8
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports News
-URL: https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports NFL
-URL: https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
-Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Strongman (720p)

@@ -133,8 +133,8 @@ URL: https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 Logo: https://i.imgur.com/SBCIwek.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
-Name: Channel 8 (1080p) [Not 24/7]
-URL: http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+Name: Channel 8
+URL: https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 Logo: https://i.imgur.com/P3c5jAu.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
@@ -280,22 +280,10 @@ Logo: https://i.imgur.com/Okcnmt6.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 
-Group: Movies
-Name: Zee Bollymovies (1080p) [Geo-blocked]
-URL: https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512
-Source: https://iptv-org.github.io/iptv/countries/th.m3u
---------------------------------------------------
-
 Group: News
 Name: 13 Siam Thai (1080p)
 URL: https://live.x2.co.th/live/13livetv-th.m3u8
 Logo: https://i.imgur.com/FvEp1S2.png
-Source: https://iptv-org.github.io/iptv/countries/th.m3u
---------------------------------------------------
-Name: ASTV News 1 (720p) [Not 24/7]
-URL: http://news1.live14.com/stream/news1.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 Name: JKN 18 (1080p)
@@ -306,6 +294,11 @@ Source: https://iptv-org.github.io/iptv/countries/th.m3u
 Name: Nation TV
 URL: https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 Logo: https://i.imgur.com/h3TY38F.png
+Source: https://iptv-org.github.io/iptv/countries/th.m3u
+--------------------------------------------------
+Name: News1
+URL: https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 Name: RTM ASEAN
@@ -621,8 +614,8 @@ URL: https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 Logo: https://i.imgur.com/uOfb3y1.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
-Name: Thai PBS (1080p) [Not 24/7]
-URL: https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+Name: Thai PBS
+URL: https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 Logo: https://i.imgur.com/CwalZjr.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------

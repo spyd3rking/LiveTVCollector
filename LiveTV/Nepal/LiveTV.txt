@@ -1,12 +1,7 @@
 Group: Documentary
-Name: National Geographic HD (576p)
-URL: http://149.71.34.166:8002/play/a013/index.m3u8
-Logo: https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/np.m3u
---------------------------------------------------
-Name: National Geographic Wild HD (1080p)
-URL: http://149.71.34.166:8002/play/a012/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
+Name: National Geographic (576p) [Geo-blocked]
+URL: http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+Logo: https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/np.m3u
 --------------------------------------------------
 
@@ -28,6 +23,11 @@ Source: https://iptv-org.github.io/iptv/countries/np.m3u
 --------------------------------------------------
 
 Group: Entertainment;General
+Name: Ray TV HD
+URL: https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+Logo: https://i.imgur.com/QIkgiEn.png
+Source: https://iptv-org.github.io/iptv/countries/np.m3u
+--------------------------------------------------
 Name: Ray TV HD (576p)
 URL: https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
 Logo: https://i.imgur.com/QIkgiEn.png
@@ -68,6 +68,23 @@ Source: https://iptv-org.github.io/iptv/countries/np.m3u
 Name: Mithila Nepal TV (1080p)
 URL: http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 Logo: https://i.ibb.co/CWn3fH9/1689333550464.jpg
+Source: https://iptv-org.github.io/iptv/countries/np.m3u
+--------------------------------------------------
+
+Group: Kids
+Name: Nick Jr. (576p)
+URL: http://103.185.24.134:3001/NICK-JR/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/np.m3u
+--------------------------------------------------
+Name: Nickelodeon (576p)
+URL: http://103.185.24.134:3001/NICK/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/np.m3u
+--------------------------------------------------
+Name: Sonic (576p)
+URL: http://103.185.24.134:3001/SONIC/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/np.m3u
 --------------------------------------------------
 

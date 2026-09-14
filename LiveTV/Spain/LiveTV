@@ -19194,9 +19194,9 @@
     "img": "https://i.imgur.com/GzI3RC4.png"
   },
   {
-    "name": "Actualidad 360 (1080p) [Geo-blocked]",
+    "name": "Actualidad 360",
     "type": "News",
-    "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+    "url": "https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8",
     "img": "https://i.imgur.com/3YeTu0n.png"
   },
   {
@@ -27888,12 +27888,6 @@
     "img": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png"
   },
   {
-    "name": "Disney Junior (576p)",
-    "type": "Kids",
-    "url": "https://bbb.exoadash.com/TVD1561/index.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg"
-  },
-  {
     "name": "iCarly",
     "type": "Kids",
     "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8",
@@ -29572,6 +29566,12 @@
     "type": "Series",
     "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8",
     "img": "https://i.imgur.com/EOttSdW.png"
+  },
+  {
+    "name": "La Rosa de Guadalupe (360p)",
+    "type": "Series",
+    "url": "https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8",
+    "img": "https://i.imgur.com/tK9zOgo.png"
   },
   {
     "name": "Los archivos del FBI",
@@ -44742,9 +44742,9 @@
     "img": "https://i.imgur.com/5pMo7dL.png"
   },
   {
-    "name": "Teledeporte (720p) [Geo-blocked]",
+    "name": "Teledeporte",
     "type": "Sports",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "url": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8",
     "img": "https://i.ibb.co/0jxLdjnY/TDP.png"
   },
   {
@@ -54984,12 +54984,6 @@
     "img": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png"
   },
   {
-    "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-    "type": "Classic;Comedy;Series",
-    "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
-    "img": "https://i.imgur.com/lfco9ht.png"
-  },
-  {
     "name": "Canal 10 Empordà (360p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
@@ -55012,6 +55006,12 @@
     "type": "Undefined",
     "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8",
     "img": "https://i.imgur.com/hXDj0fV.png"
+  },
+  {
+    "name": "Tac12",
+    "type": "Undefined",
+    "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8",
+    "img": "https://i.imgur.com/XHOVbSu.png"
   },
   {
     "name": "Telemadrid HD (1080p)",
@@ -55076,7 +55076,7 @@
   {
     "name": "Clan (1080p)",
     "type": "Kids;Public",
-    "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
+    "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
     "img": "https://i.ibb.co/vv3FC2Nv/clan.png"
   },
   {

@@ -1,33 +1,27 @@
 [
   {
-    "name": "8XM (576p)",
-    "type": "Music",
-    "url": "http://115.42.65.142:9981/stream/channelid/582886861",
-    "img": "https://i.imgur.com/KLrfKRn.png"
+    "name": "7 News (720p)",
+    "type": "News",
+    "url": "https://sscsott.com/7news/live/index.m3u8",
+    "img": "https://i.imgur.com/PTl92P5.png"
   },
   {
-    "name": "ARY Musik (1080p)",
-    "type": "Music",
-    "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png"
-  },
-  {
-    "name": "Jalwa TV",
-    "type": "Music",
-    "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
-    "img": "https://i.imgur.com/HWb5Iat.png"
-  },
-  {
-    "name": "JooMusic (720p)",
-    "type": "Music",
-    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
-    "img": "https://i.imgur.com/KHuKQQL.png"
+    "name": "24 News HD",
+    "type": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png"
   },
   {
     "name": "92 News HD (720p)",
     "type": "News",
     "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-    "img": "https://i.imgur.com/gp1Ao4s.jpeg"
+    "img": "https://i.imgur.com/eqKrL9S.png"
+  },
+  {
+    "name": "365 News",
+    "type": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
+    "img": "https://i.imgur.com/8I6PWof.png"
   },
   {
     "name": "Aaj News (576p)",
@@ -60,10 +54,16 @@
     "img": "https://i.imgur.com/R4KtTbJ.jpg"
   },
   {
+    "name": "Capital TV",
+    "type": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8",
+    "img": "https://i.imgur.com/UxAE5O4.png"
+  },
+  {
     "name": "City 41 (576p)",
     "type": "News",
     "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+    "img": "https://i.imgur.com/U5BdY2g.png"
   },
   {
     "name": "Dunya News (INT Feed) (720p) [Not 24/7]",
@@ -186,6 +186,36 @@
     "img": "https://i.imgur.com/pmPZoYC.png"
   },
   {
+    "name": "8XM (576p)",
+    "type": "Music",
+    "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+    "img": "https://i.imgur.com/KLrfKRn.png"
+  },
+  {
+    "name": "8XM HD",
+    "type": "Music",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+    "img": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png"
+  },
+  {
+    "name": "ARY Musik (1080p)",
+    "type": "Music",
+    "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png"
+  },
+  {
+    "name": "Jalwa TV",
+    "type": "Music",
+    "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
+    "img": "https://i.imgur.com/HWb5Iat.png"
+  },
+  {
+    "name": "JooMusic (720p)",
+    "type": "Music",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "img": "https://i.imgur.com/KHuKQQL.png"
+  },
+  {
     "name": "A-Plus TV (576p)",
     "type": "Entertainment",
     "url": "http://115.42.65.142:9981/stream/channelid/113328724",
@@ -210,16 +240,28 @@
     "img": "https://i.imgur.com/FqkABWT.png"
   },
   {
+    "name": "Bol Entertainment HD",
+    "type": "Entertainment",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8",
+    "img": "https://i.imgur.com/eajSRFo.png"
+  },
+  {
     "name": "Express Entertainment (1080p)",
     "type": "Entertainment",
     "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
     "img": "https://i.imgur.com/rgHbb8W.png"
   },
   {
+    "name": "Hum TV (720p)",
+    "type": "Entertainment",
+    "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+    "img": "https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png"
+  },
+  {
     "name": "Pashto 1 (1080p)",
     "type": "Entertainment",
     "url": "http://103.250.28.74:8000/play/a00t/index.m3u8",
-    "img": "https://i.imgur.com/QB9xOSZ.png"
+    "img": "https://i.imgur.com/tUsLDRe.png"
   },
   {
     "name": "Play Entertainment (576p)",
@@ -465,7 +507,7 @@
     "name": "PK Sports (720p)",
     "type": "Sports",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg"
+    "img": "https://i.imgur.com/qtbSnrY.png"
   },
   {
     "name": "PTV Sports (1080p)",
@@ -477,7 +519,7 @@
     "name": "Ten Sports Pakistan",
     "type": "Sports",
     "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
-    "img": "https://i.imgur.com/nnqpYNm.png"
+    "img": "https://i.imgur.com/7qS6TcE.png"
   },
   {
     "name": "Masala TV (576p)",

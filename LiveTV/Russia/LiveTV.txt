@@ -42,6 +42,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: DocuBox Russia
+URL: http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+Logo: https://i.imgur.com/pX4U9OG.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: RT Documentary Russian (1080p)
 URL: https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 Logo: https://i.imgur.com/aeu5zIC.png
@@ -78,24 +83,9 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Entertainment
-Name: Индия (576p)
-URL: http://31.148.48.15/Zee_TV_Russia/index.m3u8
-Logo: https://i.imgur.com/xDVcDOc.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: ОТВ Приморье
 URL: https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 Logo: https://i.imgur.com/2zd8trG.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: ТНТ4 (576p)
-URL: http://31.148.48.15/TNT4/index.m3u8
-Logo: https://i.imgur.com/gBokU5i.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Че! (576p)
-URL: http://31.148.48.15/Che/index.m3u8
-Logo: https://i.imgur.com/ZOcDGpB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -114,6 +104,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: General
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",5 Канал
+URL: https://streaming.televizor-24-tochka.ru/live/8.m3u8
+Logo: https://i.imgur.com/KPXMa3U.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: 12 канал (1080p)
 URL: https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 Logo: https://i.imgur.com/OA9hm6e.png
@@ -199,8 +194,8 @@ URL: https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 Logo: https://i.imgur.com/hZXBD9F.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Лен ТВ 24 (540p) [Geo-blocked]
-URL: https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+Name: ЛенТВ24
+URL: https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Logo: https://i.imgur.com/d02uxkB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -247,11 +242,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Осетия Ирыстон (1080p)
 URL: https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 Logo: https://i.imgur.com/N0Zn4zU.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: ОТР (576p)
-URL: http://31.148.48.15/OTR/index.m3u8
-Logo: https://i.imgur.com/VaWlnjZ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Первый канал (1080p)
@@ -324,19 +314,7 @@ Logo: https://i.imgur.com/Ia3acCB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
-Group: Legislative
-Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ (1080p) [Not 24/7]
-URL: https://dumatv.iptv2022.com/playlist.m3u8
-Logo: https://i.imgur.com/JvlO3PU.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-
 Group: Lifestyle
-Name: Здоровое ТВ (576p)
-URL: http://31.148.48.15/Zdorovoe_TV/index.m3u8
-Logo: https://i.imgur.com/jedtE5l.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Сити Эдем МедЗдрав [Not 24/7]
 URL: https://cityeden.catcast.tv/content/47519/index.m3u8
 Logo: https://i.imgur.com/BM4E0Kr.png
@@ -354,11 +332,6 @@ URL: http://31.148.48.15/MGM_HD/index.m3u8
 Logo: https://i.imgur.com/1j7cT2I.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: viju TV1000 Русское (576p)
-URL: http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
-Logo: https://i.imgur.com/Meak2y4.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Детское кино International [Not 24/7]
 URL: https://autopilot.catcast.tv/content/38720/index.m3u8
 Logo: https://i.imgur.com/dJqFRhQ.png
@@ -367,11 +340,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Дом Кино Премиум HD (1080p)
 URL: http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 Logo: https://i.imgur.com/rJpQtvK.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Еврокино (576p)
-URL: http://31.148.48.15/Evrokino/index.m3u8
-Logo: https://i.imgur.com/8LPtPf6.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Иллюзион+ (576p)
@@ -402,11 +370,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Новый Русский (720p)
 URL: https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 Logo: https://i.imgur.com/iuRSScH.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Русский Иллюзион (576p)
-URL: http://31.148.48.15/Russkiy_illusion/index.m3u8
-Logo: https://i.imgur.com/RlsqFN8.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Сити Эдем КиноАзия [Not 24/7]
@@ -538,6 +501,11 @@ URL: https://cityeden.catcast.tv/content/46421/index.m3u8
 Logo: https://i.imgur.com/V3MTfyc.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Страна ФМ
+URL: https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+Logo: https://i.imgur.com/WsPlKJJ.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 
 Group: News
 Name: 360° Новости (1080p)
@@ -587,11 +555,6 @@ Group: Series
 Name: Amedia 2 (576p)
 URL: http://31.148.48.15/A2/index.m3u8
 Logo: https://i.imgur.com/NqHla2V.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: НТВ Хит (576p)
-URL: https://cdn.ntv.ru/th_hit/playlist.m3u8
-Logo: https://i.imgur.com/FfKBvz5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Сити Эдем ТелеНовелла [Not 24/7]
@@ -1226,7 +1189,7 @@ URL: https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: BelRos (720p)
+Name: Soyuzny (576p)
 URL: https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -1638,11 +1601,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Kinopokaz
 URL: https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Kinopokaz HD (1080p)
-URL: http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2238,11 +2196,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: RT en Espanol (1080p)
 URL: http://15.204.246.24:8080/RTHD/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: RT en Espanol (1080p)
-URL: http://179.60.51.134:8888/RT/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3321,6 +3274,861 @@ URL: http://185.23.80.23:8080/REN/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Pobeda (1080p)
+URL: http://94.155.93.182/POBEDA_HD/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: MMA-TV.com (576p)
+URL: http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Unikum (576p)
+URL: http://45.145.32.13:20440/nauka/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Lapki Live (576p)
+URL: http://45.145.32.13:20440/unikum/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Moskva 24 (576p)
+URL: http://45.145.32.13:20440/moskva24/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zvezda Plus (576p)
+URL: http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mir Seriala (576p)
+URL: http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Channel One (576p)
+URL: http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: REN TV (576p)
+URL: http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Travel+Adventure (576p)
+URL: http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Tochka RF (1080p)
+URL: http://45.145.32.13:20440/hdl/index.m3u8?token=test
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE (576p)
+URL: http://178.134.1.158:8081/BRIDGE/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE Rock (576p)
+URL: http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: REN TV International (576p)
+URL: http://178.134.1.158:8081/RENTV/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: NTV-Hit (576p)
+URL: http://178.134.1.158:8081/ntvhit/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Baby Time (576p)
+URL: http://178.134.1.158:8081/babytime/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: .red HD (1080p)
+URL: http://178.134.1.158:8081/red/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV 21 (576p)
+URL: http://178.134.1.158:8081/TVXXI/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Tonus (576p)
+URL: http://194.143.148.28:8080/Mir24/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: AIST TV (576p)
+URL: http://194.143.148.28:8080/Aist/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE (576p)
+URL: http://194.143.148.28:8080/RT_DOC/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: REN TV (576p)
+URL: http://flussonic.linkintel.ru/ren_tv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Friday! (576p)
+URL: http://flussonic.linkintel.ru/Pyatnica/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV-3 (576p)
+URL: http://flussonic.linkintel.ru/tv-3/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: NTV HD (1080p)
+URL: http://flussonic.linkintel.ru/ntv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mult (576p)
+URL: http://flussonic.linkintel.ru/Mult/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Ani (576p)
+URL: http://flussonic.linkintel.ru/Ani/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNT (576p)
+URL: http://flussonic.linkintel.ru/tnt/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: STS (576p)
+URL: http://flussonic.linkintel.ru/sts/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Che! (576p)
+URL: http://flussonic.linkintel.ru/che/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Carousel (576p)
+URL: http://flussonic.linkintel.ru/Karusel/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV Centr (576p)
+URL: http://flussonic.linkintel.ru/tvc/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zvezda (576p)
+URL: http://flussonic.linkintel.ru/zvezda/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: OTR (576p)
+URL: http://flussonic.linkintel.ru/otr/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNT4 (576p)
+URL: http://flussonic.linkintel.ru/tnt4/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Amedia Hit (576p)
+URL: http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Cinema (576p)
+URL: http://flussonic.linkintel.ru/cinema/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kino TV (576p)
+URL: http://flussonic.linkintel.ru/kino-tv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Gulli Girl (576p)
+URL: http://flussonic.linkintel.ru/gulli_girl/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TiJi (576p)
+URL: http://flussonic.linkintel.ru/tiji/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Match! Ultra (576p)
+URL: http://flussonic.linkintel.ru/match/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mama (576p)
+URL: http://flussonic.linkintel.ru/mama/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Muzyka Pervogo (576p)
+URL: http://88.212.15.19/live/test_muzyka_pervogo/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV-3 HD (1080p)
+URL: http://stream.mcquack.net/136/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNT4 (576p)
+URL: http://stream.mcquack.net/106/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Telecafe (576p)
+URL: http://stream.mcquack.net/314/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Doctor (576p)
+URL: http://stream.mcquack.net/80/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Travel+Adventure HD (1080p)
+URL: http://stream.mcquack.net/206/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: UDAR (1080p)
+URL: http://stream.mcquack.net/279/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Travel+Adventure HD (1080p)
+URL: http://77.232.131.211/TravelAdventureHD/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE Classic (576p)
+URL: http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE Hits (576p)
+URL: http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: FON Music (576p)
+URL: https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: 1HD Music Television (1080p)
+URL: https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mult (576p)
+URL: https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mama (576p)
+URL: https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: 365 days TV (576p)
+URL: https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Arsenal (576p)
+URL: https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kapitan Fantastika (576p)
+URL: https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: V gostyakh u skazki (1080p)
+URL: https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Smile TV (720p)
+URL: https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kuhnya (576p)
+URL: https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV Centr (576p)
+URL: https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Tochka otryva (576p)
+URL: https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Usadba (576p)
+URL: https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zdorovoe TV (576p)
+URL: https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Domashnie Zhivotnye (576p)
+URL: https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Dikij (576p)
+URL: https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Priklyucheniya (576p)
+URL: https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zhivaya Planeta (576p)
+URL: https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-K (576p)
+URL: https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNT4 International (576p)
+URL: https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-24 (576p)
+URL: https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-K (576p)
+URL: https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: RTR-Planeta (576p)
+URL: https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: NTV Mir (576p)
+URL: https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: REN TV International (576p)
+URL: https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: 365 days TV (576p)
+URL: https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: T24 (576p)
+URL: https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Moya Planeta (576p)
+URL: https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju Explore (576p)
+URL: https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju History (576p)
+URL: https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju Nature (576p)
+URL: https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: National Geographic (576p)
+URL: https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: National Geographic Wild (576p)
+URL: https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Istoriya (576p)
+URL: https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Big Planet (576p)
+URL: https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Avto24 (576p)
+URL: https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Poehali! (576p)
+URL: https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: India (576p)
+URL: https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Dom kino International (576p)
+URL: https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Dom kino Premium HD (1080p)
+URL: https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Domashniy (576p)
+URL: https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Evrokino (576p)
+URL: https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: KinoHit (576p)
+URL: https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinouzhas (576p)
+URL: https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Indiyskoye Kino (576p)
+URL: https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinokomedija (576p)
+URL: https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinomix (576p)
+URL: https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinopremyera HD (1080p)
+URL: https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Rodnoe Kino (576p)
+URL: https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinosemja (576p)
+URL: https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinoseriya (576p)
+URL: https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Kinosvidanie (576p)
+URL: https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Muzhskoe kino (576p)
+URL: https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Nashe Novoe Kino (576p)
+URL: https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju TV1000 (576p)
+URL: https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju TV1000 action (576p)
+URL: https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju TV1000 russkoe (576p)
+URL: https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Moskva 24 (576p)
+URL: https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: KVN TV (576p)
+URL: https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mir (576p)
+URL: https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mosfilm Gold Collection (576p)
+URL: https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV Centr (576p)
+URL: https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Nostalgia (576p)
+URL: https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Oruzhie (576p)
+URL: https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russkiy Illusion (576p)
+URL: https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: STS (576p)
+URL: https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: STS Love (576p)
+URL: https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Telecafe (576p)
+URL: https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Tochka otryva (576p)
+URL: https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Dorama (576p)
+URL: https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: START Air (576p)
+URL: https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: START World (576p)
+URL: https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TV 21 (576p)
+URL: https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: U (576p)
+URL: https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Vremya (576p)
+URL: https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zhara (576p)
+URL: https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zhivi! (576p)
+URL: https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Sarafan (576p)
+URL: https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zoopark (576p)
+URL: https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Zvezda (576p)
+URL: https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: BRIDGE Classic (576p)
+URL: https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Muz-TV (576p)
+URL: https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: RU.TV (576p)
+URL: https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Shanson TV (576p)
+URL: https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Europa Plus TV (576p)
+URL: https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: V gostyakh u skazki (576p)
+URL: https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Baby Time (576p)
+URL: https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Lapki Live (576p)
+URL: https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: STS kids International (576p)
+URL: https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Da Vinci (576p)
+URL: https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Carousel International (576p)
+URL: https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: O! International (576p)
+URL: https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Bober (576p)
+URL: https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Mult International (576p)
+URL: https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Multilandia (576p)
+URL: https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: KHL Prime (1080p)
+URL: https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: KHL (576p)
+URL: https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Match! Ultra (576p)
+URL: https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Match! Planeta (576p)
+URL: https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: viju+ Sport (576p)
+URL: https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: MMA-TV.com (576p)
+URL: https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Extreme Sports Channel (576p)
+URL: https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Channel 5 International (576p)
+URL: https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: TNV-Planet (576p)
+URL: https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-1 HD (1080p)
+URL: https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-24 HD (1080p)
+URL: https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Match! Ultra (576p)
+URL: http://45.132.87.69:8080/match/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Match! Ultra (576p)
+URL: http://tv.tuva.ru/machtv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. World Series (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Svaty (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Sovetskoe Kino (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Series Hits (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Scary (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Mentovskiye Serialy (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. Golden Collection (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Velvet. European Movies (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Detvora+ (1080p)
+URL: https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: National Geographic (1080p)
+URL: http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: FashionTV (1080p)
+URL: http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 
 Group: Undefined
 Name: 7TV (576p)
@@ -3358,19 +4166,9 @@ URL: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Живая Планета (576p)
-URL: http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-Logo: https://i.imgur.com/onNv1tM.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Неизвестная Россия (1080p)
 URL: https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Logo: https://i.imgur.com/W7ste2f.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p (576p)
-URL: https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
-Logo: https://i.imgur.com/4KiYSln.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Салям (Уфа) (576p)
@@ -3393,24 +4191,9 @@ URL: https://sitv.ru/vgtrk/stv.m3u8
 Logo: https://i.imgur.com/OxvqXMt.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ТНВ-Планета (Казань) (576p)
-URL: https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-Logo: https://i.imgur.com/ijA1zDw.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Тонус (576p)
-URL: http://31.148.48.15/Zdorovie/index.m3u8
-Logo: https://i.imgur.com/pGm8QCj.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Точка ТВ (576p)
 URL: http://31.148.48.15/Tochka_TV/index.m3u8
 Logo: https://i.imgur.com/yyNR5jG.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Уникум (576p)
-URL: http://31.148.48.15/Detskiy/index.m3u8
-Logo: https://i.imgur.com/kSJZjDL.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Шаян ТВ (Татарстан) (1080p)
@@ -4014,7 +4797,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: TLC
-URL: http://80.245.95.243:8888/play/a017/index.m3u8
+URL: https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=UzRjreTMnUHfHw6Txvz1tA&e=2089239025&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4513,42 +5296,42 @@ Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/L
 
 Group: Кино
 Name: Amedia 1
-URL: https://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/a1hd/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Amedia 2
-URL: https://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/A2HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Amedia Hit
-URL: https://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/amediahithd/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Amedia Premium
-URL: https://s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/AHOMEOFHBO2HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Megahit
-URL: https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/ViPMegahitHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Premiere
-URL: https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/ViPPremiereHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Comedy
-URL: https://s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/VIPComedy/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Serial
-URL: https://s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/VIPSerial/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4568,12 +5351,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viasat Kino World
-URL: http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
+URL: https://cdn.kinolar.workers.dev/TV_1000_world_kino_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Ultra HD Cinema
-URL: http://31.130.16.62:4022/udp/239.1.12.8:1234
+URL: https://cdn.kinolar.workers.dev/ULTRAHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4608,22 +5391,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Киномикс
-URL: http://185.78.112.47:8077/kinomix/index.m3u8
+URL: https://cdn.kinolar.workers.dev/KinomiksHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Мужское кино
-URL: http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
+URL: https://cdn.kinolar.workers.dev/MuzskoekinoHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Киносвидание
-URL: https://s70378.cdn.ngenix.net/kinoklub/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/KinosvidanieHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Наше новое кино
-URL: https://s70378.cdn.ngenix.net/nashe_novoe_kino/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/Nashe_Novoe_Kino_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4638,42 +5421,42 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Индийское кино
-URL: https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
+URL: https://cdn.kinolar.workers.dev/INDIYSKOE_KINO/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Киносерия
-URL: https://jekalich.github.io/smtk/channels/kinoseria.m3u8
+URL: https://cdn.kinolar.workers.dev/KINOSERIYAHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Киноужас
-URL: http://185.78.112.47:8077/kinoujas/index.m3u8
+URL: https://cdn.kinolar.workers.dev/KinouzasHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Блокбастер
-URL: https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
+URL: https://cdn.kinolar.workers.dev/BlokbasterHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Камеди
-URL: https://jekalich.github.io/smtk/channels/kamedi.m3u8
+URL: https://cdn.kinolar.workers.dev/KamedyHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Кинопоказ
-URL: https://jekalich.github.io/smtk/channels/kinopokaz-hd.m3u8
+URL: http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Наш Кинопоказ
-URL: https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd.m3u8
+URL: https://cdn.kinolar.workers.dev/NashKinopokazHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Наше Мужское
-URL: https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd.m3u8
+URL: https://cdn.kinolar.workers.dev/NasheMuzskoeHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4683,12 +5466,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Про Любовь
-URL: https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
+URL: https://cdn.kinolar.workers.dev/ProLubovHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Хит
-URL: https://jekalich.github.io/smtk/channels/khit-hd.m3u8
+URL: https://cdn.kinolar.workers.dev/XitHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4738,17 +5521,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Иллюзион+
-URL: https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
+URL: https://cdn.kinolar.workers.dev/ILLUSION_PLUS_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: FX HD
-URL: http://217.113.16.23/FOXHD/index.m3u8
+URL: https://cdn.kinolar.workers.dev/FOX_CEE_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: FX Life HD
-URL: https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
+URL: https://cdn.kinolar.workers.dev/foxlifehd/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4758,27 +5541,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: .black
-URL: http://62.32.84.50:18000/play/a0h5/index.m3u8
+URL: https://cdn.kinolar.workers.dev/Black_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: .red
-URL: http://62.32.84.50:18000/play/a0h3/index.m3u8
+URL: https://cdn.kinolar.workers.dev/RED_TV_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: .sci-fi
-URL: http://62.32.84.50:18000/play/a0h4/index.m3u8
+URL: https://cdn.kinolar.workers.dev/Sci_fi_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Plan B
-URL: http://46.32.176.50/paramountchannel/index.m3u8
+URL: https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Cinema
-URL: https://jekalich.github.io/smtk/channels/cinema-ru.m3u8
+URL: https://cdn.kinolar.workers.dev/Cinema_RU_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4808,7 +5591,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Феникс+Кино
-URL: https://jekalich.github.io/smtk/channels/feniks-plus-kino.m3u8
+URL: https://cdn.kinolar.workers.dev/FENIXKINO_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4843,7 +5626,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Любимое кино
-URL: https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
+URL: http://31.210.208.171:8080/lubimoe_kino/index.m3u8?token=+W2MSER
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4883,17 +5666,17 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Trash
-URL: https://jekalich.github.io/smtk/channels/trashtv.m3u8
+URL: https://cdn.kinolar.workers.dev/Trash_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Start Air
-URL: http://185.78.112.47:8077/start_air/index.m3u8
+URL: https://cdn.kinolar.workers.dev/STARTAIRHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Start World
-URL: http://185.78.112.47:8077/start_world/index.m3u8
+URL: https://cdn.kinolar.workers.dev/STARTWORLDHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4903,12 +5686,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Сапфир
-URL: https://jekalich.github.io/smtk/channels/sapfir.m3u8
+URL: https://cdn.kinolar.workers.dev/NatGeoWildHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: TV XXI
-URL: https://jekalich.github.io/smtk/channels/tvxxi.m3u8
+URL: https://cdn.kinolar.workers.dev/TV21_HD_Kino/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4973,7 +5756,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Тайна
-URL: https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V0nKKxZ4E0ruP24Ab6zfPA&e=2087381602&scheme=https
+URL: https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=08s0Su8hlSaLUkfZK39Q2w&e=2089239028&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6815,27 +7598,27 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Investigation Discovery
-URL: http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132517&extension=ts&play_token=55SVqKBe5w
+URL: https://cdn.kinolar.workers.dev/DISCOVERY_ID_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: History HD
-URL: https://s70378.cdn.ngenix.net/history/1/index.m3u8
+URL: https://cdn.kinolar.workers.dev/History_HD_CEE/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: History2 HD
-URL: https://s70378.cdn.ngenix.net/history_2/1/index.m3u8
+URL: https://cdn.kinolar.workers.dev/h2tvhd/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Nat Geo Wild HD
-URL: https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+URL: https://cdn.kinolar.workers.dev/Nat_Geo_Wild_CEE_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: National Geographic HD
-URL: https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+URL: https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=j__S5jX2vsyMjRbhDUmo1w&e=2089239025&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6910,22 +7693,22 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дикий
-URL: https://s70378.cdn.ngenix.net/dikiy/2/index.m3u8
+URL: https://cdn.kinolar.workers.dev/DIKYI/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дикая охота HD
-URL: https://stream8.cinerama.uz/1412/tracks-v1a1/mono.m3u8
+URL: https://cdn.kinolar.workers.dev/DikayaOxotaHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дикая рыбалка HD
-URL: http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132462&extension=ts&play_token=jXxjYrdWZk
+URL: https://cdn.kinolar.workers.dev/DikayaRybalkaHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Диалоги о Рыбалке
-URL: http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148935&extension=ts&play_token=7YmGcJaDo9
+URL: https://cdn.kinolar.workers.dev/dialogiorubalkehd/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7075,7 +7858,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Загородный International
-URL: https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=vcGBbn1ZPIEKdaXWfsm_Nw&e=2087943364&scheme=https
+URL: https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=yvav6niF5R6hhZKo3EsHjg&e=2089239026&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8605,7 +9388,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: НТВ HD
-URL: https://edge01p.mediavitrina.ru/hls-livef6/ntv_msk/index.m3u8?token=v2.Bx4scM9OKGYIM5dPxkP2bmhl3_TakkXWtN6VzCqwzEI.hb2moVnZz4ScMcDnVPlzPqP8KfWWvchqZRwjc2Ed5Gk.1788565089.f8aeddcfce3ba01d09a7aa71f83f1c80
+URL: https://edge02d.mediavitrina.ru/hls-livef6/ntv_msk/index.m3u8?token=v2.KK7LjNzygrklMTK6VQatG1jwykZh2Ld-Jqac-ABqzWY.uk_YUB1BgdAhx9u2hIp4knUoUpWG8Dm4A8XXL8SYc6w.1789933089.e28d214983597093e205a63483b3a4c1
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8615,7 +9398,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВЦ HD
-URL: https://edge03p.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.rANANyA3RbH6TF4nlkTI_WT_7QVvXeJFWGdhUhdWRuQ.Ol6QunemxRAI4TN9esGcnLMfHLT2NQtWmG0B58Brr6w.1788565089.32f0d697bfb3ffee9ac7094aa75951d6
+URL: https://edge03p.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.gjgpPZLA4BE8yAZzsaqxlpDak1KuWdaYMFin1w_J8Zg.6DI4hqIftYD__MWEnAraHNNnq6PwF69_scCPVNqt1Gc.1789933090.305fe1fb1c20a958bffe25ee88cd7dc9
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8625,7 +9408,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Пятый канал HD
-URL: https://edge02d.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.NWt8kNj9QoEZ7H13qfqCX5Q5jrdeieKOXdAjzQOmij0.UwlFoiGJCUulzJWT44brnBCbqRhmwrvacMG370urxfI.1788565089.651f089d9dd00fd9d37bc21c3d434991
+URL: https://edge04p.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.HkByYhXz_NpfIFXO6SPkkPsU93EMRWCPuwlVB7hj_nQ.A5nxypJc1QzxJ53iQ2dB8xo3AK6f8Dxhkb5RrZbeXyc.1789933089.029d7255216fceeb86977af0a6302623
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8635,7 +9418,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Рен ТВ HD
-URL: https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.ay10h5L97UWLOlbxBnDN9vn8YxWZ0vYnl1lHvO3b0Hs.fNFTErbeFr-JN05BOK2zbChJ1QcGBe6dUfEpYocRksI.1788565089.cfa5c36363ec4b34bfc13735a69f8f92
+URL: https://edge02p.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.yYGGiSyrIJxmpk9OVp4ICk0McOXyYcxUjRJT4RgqyfU.TcTbAkoKlc4DFg_oT0RSsdoPeGJG5U4vLt_gGcu1jGI.1789933090.8d186a8fe3c00bc9a1ef4e73274ded42
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8645,7 +9428,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: СТС HD
-URL: https://edge04p.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.O_I9-3ZWBMn3tK4b2Qam13zJNe6-sC6DNdP32eSmC-k.XglJse34fpPeUd9ph7fywZYvPLCagYnhf14TvH9tqyc.1788565090.8a636f7a9669e6e5e0b615b8fac545d7
+URL: https://edge01r.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.uHanh2-p7iMQNHWoPmQLQMqX5pDhzOyfjeEBc40k20Q.IotnevmvUB_dtEHMfr-70Qy1cF3piuvu0iZ1x8RzWiY.1789933090.067c7bc0e70a0d5e4f514d388bc8104f
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8660,7 +9443,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ HD
-URL: https://edge04p.mediavitrina.ru/hls-livef7/tnt/index.m3u8?token=v2.Pm58ljm5kW3_T6_u0Y7Wgdt8nXtwhasXAZYc_CICJik.VE01oYM4lMe_jnEJvoHxTmBFpcI-c87MLkxILSiCGho.1788565091.269a5dbae739713ad8ce1d8b3b9f7d71
+URL: https://edge02r.mediavitrina.ru/hls-livef8/tnt/index.m3u8?token=v2.XrmXQv-tzNKuhU4_IgweWTEopEbghXK14UOTxDn63c0.uKi7RXmshWLkoxExMAC4bM6ukrodaBa2Elk1c9QYzy8.1789933092.762c54a45d67501d70bc4f1016c0f1e5
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8670,7 +9453,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ4 HD
-URL: https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=V5Mm-zQFGFI72nNr9zyiSg&e=2087943357&scheme=https
+URL: https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=1Htc_gPdI_8x7eaMciyh7A&e=2089239018&scheme=https
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8680,7 +9463,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Пятница! HD
-URL: https://edge02r.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.pP7HG0JvS5MzNcI9LMh80YDLO5hrhtyrnhccSTLsHJk.OOgkumMHESuq-Wob9NN0wPRqJyU-icT_2DWABnyc3lA.1788565090.bc7d7d2ae14e3880c521f919177b0702
+URL: https://edge04p.mediavitrina.ru/hls-livef8/friday/index.m3u8?token=v2.DXGZfJiUH_fVFW5_Y2DaH06Q_1nH3ko1YtcBeW1jv1Y.wUk7JFOW4NZUxbQ7_p1K4N0KPaMq0eUm1tltHbsECp0.1789933091.cd5333e6be4d46a4acdff9dbf99df2f3
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8695,7 +9478,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВ3 HD
-URL: https://edge01p.mediavitrina.ru/hls-livef7/tv3/index.m3u8?token=v2.TOUUjxhIpCjh8ucitVEmxPWvxyqnqRpHi_iAT39Ght4.NcNRW0zguSnYgI5cRd9zH-gvTP5CbJ8pM5kyXVSi-HI.1788565090.16d1a609dc54a1a6df2918263d8676c6
+URL: https://edge01d.mediavitrina.ru/hls-livef7/tv3/index.m3u8?token=v2.h6a9YhKAxN_YbnBRv6N6hQtZ3bZKVrsZ6NOM-szvn80.eR_ItvZJuI2E95-Zz-ayNLG15vESz2At6gHnpflRGbY.1789933091.f0bb572d6ff4d56419bdaf59e0e6be8d
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8735,7 +9518,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Домашний HD
-URL: https://edge01r.mediavitrina.ru/hls-livef6/ctc-dom/index.m3u8?token=v2.3ewTm1xhpROb_qrZadQdlJyU2bh4yKPJV3gWwb5sHqM.b_W7BPREDyKPbufGsu1_vryYHRM22kCf3ok0P10mKno.1788565090.7a95200e43debb9d90542aadc4c47bd2
+URL: https://edge04p.mediavitrina.ru/hls-livef5/ctc-dom/index.m3u8?token=v2.pGJv023kYAwB6Cl8NBZqqa1t-28JO_cETUdbubxY5fc.1u_xvt0yqj1I-b0p6MOUDogWGeFrLfbRuQauq-3cYNI.1789933091.d9326f01207607b28605b8be79a081dd
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8750,7 +9533,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ОТР
-URL: https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.cVo93zvBwj3qyvdrrcLxzEXELaegiVLIDBeKjBumBY0.N6n_asAUIVnxaP4rc-j5E0brAxP8wAmBBtp6W7b8kp8.1788565089.f6b2db17b3ec4dd83e57db56025e1a92
+URL: https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.g1U1osl2X-nDy7gWLk9C9klgRTfSoP783Yd6euhuNt0.xIR3cNZmcBd0T-m5nCdQvoOMaC5SIMMSV1N4oUWa9pI.1789933090.9a301023c4335856eb98ba80b171d420
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8792,7 +9575,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Матч! HD
-URL: https://edge02p.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.JdHRInkQBLmeF-DWPOFKCt3aG9asnYSc9K81GPv4ohU.G83pPuSglV5qon4Htyx819BQ9fnkNMFFJ_Te86t4bxs.1788565089.e7422851fa3619a977d838ac9d5babf1
+URL: https://edge02p.mediavitrina.ru/hls-livef6/matchtv/index.m3u8?token=v2.ycxkjKH8oeGa6sLvimP0ojfvecz3VqGL9LgIH1ETo7k.CgvNdSmvCcLz4ONdZ-kFkApC2eP636iF7KwdCazyfI8.1789933089.a39969941e8b7aa7789217cd89174bab
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -8842,12 +9625,12 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: KHL
-URL: https://s70378.cdn.ngenix.net/kxl/1/index.m3u8
+URL: https://cdn.kinolar.workers.dev/KHLHD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: KHL Prime
-URL: http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
+URL: https://cdn.kinolar.workers.dev/KHL_HD/mono.m3u8?key=halvatv
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------

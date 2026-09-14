@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-30 10:04:40",
+  "date": "2026-09-14 09:38:30",
   "channels": {
     "Entertainment": [
       {
-        "name": "8TV (1080p) [Geo-blocked]",
+        "name": "8TV",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325"
+        "url": "http://cdn6.163189.xyz/163189/8tv"
       }
     ],
     "General": [
@@ -145,11 +145,11 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
       },
       {
-        "name": "TV9 (1080p) [Geo-blocked]",
+        "name": "TV9",
         "logo": "https://i.imgur.com/Krh1F8d.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326"
+        "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
       },
       {
         "name": "TVIKIM (1080p)",
@@ -157,6 +157,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
         "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942"
+      },
+      {
+        "name": "TVS (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/960px-TVS_Sarawak.jpg",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
+        "url": "https://api.dani-dev.co.za/v1/stream/mytv/live/tvs"
       }
     ]
   }

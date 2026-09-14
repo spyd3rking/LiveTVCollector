@@ -1,34 +1,13 @@
 {
-  "date": "2026-08-30 08:50:23",
+  "date": "2026-09-14 08:37:13",
   "channels": {
     "Uncategorized": [
-      {
-        "name": "ESTRELLA TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "AZTECA UNO",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"
-      },
       {
         "name": "AZTECA UNO OP2",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396"
-      },
-      {
-        "name": "AZTECA 7  OP2",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
       },
       {
         "name": "Azteca Honduras",
@@ -59,13 +38,6 @@
         "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8"
       },
       {
-        "name": "MX N+ MTY",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8"
-      },
-      {
         "name": "ADN 40",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -87,32 +59,11 @@
         "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL"
       },
       {
-        "name": "CANAL 26 AGUASCALIENTES",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8"
-      },
-      {
         "name": "CANAL 44 Chihuahua",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
-      },
-      {
-        "name": "HBO2",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://190.60.37.154:45000/play/a052/index.m3u8"
-      },
-      {
-        "name": "US CANAL 57",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
       },
       {
         "name": "Cine Sony",
@@ -141,27 +92,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-      },
-      {
-        "name": "ESPN 2 HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://181.78.82.6:46090/play/a00i/index.m3u8"
-      },
-      {
-        "name": "ESPN 3 HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://181.78.82.6:46090/play/a00v/index.m3u8"
-      },
-      {
-        "name": "ESPN 6 HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://181.78.82.6:46090/play/a00w/index.m3u8"
       },
       {
         "name": "FUTBOL NETWORK",
@@ -197,20 +127,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "La liga Inside",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8"
-      },
-      {
-        "name": "Fifa+",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8"
       },
       {
         "name": "ITV Deportes",
@@ -311,13 +227,6 @@
         "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
       },
       {
-        "name": "Ahora TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
-      },
-      {
         "name": "AMX Noticias",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -402,13 +311,6 @@
         "url": "https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8"
       },
       {
-        "name": "Cupertino City Channel",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
-      },
-      {
         "name": "Dios Te Ve",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -421,13 +323,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
-      },
-      {
-        "name": "Ecuador TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://samson.streamerr.co:8081/shogun/index.m3u8"
       },
       {
         "name": "Ecuavisa",
@@ -549,20 +444,6 @@
         "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
       },
       {
-        "name": "KTOP",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-      },
-      {
-        "name": "La Mega Mundial",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://server40.servistreaming.com:3477/stream/play.m3u8"
-      },
-      {
         "name": "La Que Buena Atlanta",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -617,20 +498,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
-      },
-      {
-        "name": "Nuevo Tiempo",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
-      },
-      {
-        "name": "Orange TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
       },
       {
         "name": "PCT Channel 26",
@@ -752,20 +619,6 @@
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
       },
       {
-        "name": "VIVO TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.vivotv.uy/hls/stream.m3u8"
-      },
-      {
-        "name": "VM Latino",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-      },
-      {
         "name": "WELU-DT1",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -869,13 +722,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL"
-      },
-      {
-        "name": "TV4 Noticias | MX",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL"
       },
       {
         "name": "TVP Los Mochis | MX",
@@ -997,13 +843,6 @@
         "url": "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
       },
       {
-        "name": "TAB TV UJAT",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
-      },
-      {
         "name": "VER RTV  VERACRUZ",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1074,13 +913,6 @@
         "url": "https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8"
       },
       {
-        "name": "CGTN Espanol",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
-      },
-      {
         "name": "3/24",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1093,27 +925,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://iptv.prosto.tv/id271/video.m3u8"
-      },
-      {
-        "name": "Vevo Pop",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "Vevo 2k",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
-      },
-      {
-        "name": "Vevo Country",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
       },
       {
         "name": "Rockola tv",
@@ -1207,48 +1018,6 @@
         "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8"
       },
       {
-        "name": "Canal 6 LAG",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
-      },
-      {
-        "name": "Canal 6 GDL",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
-      },
-      {
-        "name": "Canal 6 PUE",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8"
-      },
-      {
-        "name": "Canal 6 GTO",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8"
-      },
-      {
-        "name": "Canal 6 SAL",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8"
-      },
-      {
-        "name": "Canal 6 CDJ",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8"
-      },
-      {
         "name": "Portal FoxMix",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1275,20 +1044,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8"
-      },
-      {
-        "name": "Juvenal English",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
-      },
-      {
-        "name": "MyTime Movie",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Canal 33 Tijuana (720p)",
@@ -1340,13 +1095,6 @@
         "url": "https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8"
       },
       {
-        "name": "SABER MÁS",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120"
-      },
-      {
         "name": "TVE INT AMERICA",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -1359,34 +1107,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
-      },
-      {
-        "name": "Azteca Deportes",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://38.188.186.47:4000/play/a012/index.m3u8"
-      },
-      {
-        "name": "CINE FAMILIAR",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://38.188.186.47:4000/play/a005/index.m3u8"
-      },
-      {
-        "name": "ESTRELLAS HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://38.188.186.47:4000/play/a00p/index.m3u8"
-      },
-      {
-        "name": "BANDAMAX",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://38.188.186.47:4000/play/a00d/index.m3u8"
       }
     ],
     "Shop": [
@@ -1398,190 +1118,20 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
       }
     ],
-    "Series": [
-      {
-        "name": "+SBT Novelas (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8"
-      },
-      {
-        "name": "CSI: Miami",
-        "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
-      },
-      {
-        "name": "Diff’rent Strokes Arnold",
-        "logo": "https://i.imgur.com/jkmouY3.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
-      },
-      {
-        "name": "Jornada nas Estrelas A Nova Geração",
-        "logo": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
-      },
-      {
-        "name": "Jornada nas Estrelas Deep Space Nine",
-        "logo": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
-      },
-      {
-        "name": "Jornada nas Estrelas Voyager",
-        "logo": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
-      },
-      {
-        "name": "Kenan & Kel",
-        "logo": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-      },
-      {
-        "name": "MasterChef",
-        "logo": "https://i.imgur.com/lOuySbz.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
-      },
-      {
-        "name": "MTV Are you the One?",
-        "logo": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
-      },
-      {
-        "name": "MTV Com o Ex",
-        "logo": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
-      },
-      {
-        "name": "MTV Dating",
-        "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
-      },
-      {
-        "name": "NCIS",
-        "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
-      },
-      {
-        "name": "Nickelodeon iCarly",
-        "logo": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
-      },
-      {
-        "name": "Numbers",
-        "logo": "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
-      },
-      {
-        "name": "Pluto TV Novelas",
-        "logo": "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
-      },
-      {
-        "name": "Pluto TV Séries Ação",
-        "logo": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8"
-      },
-      {
-        "name": "Pluto TV Séries Criminais",
-        "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
-      },
-      {
-        "name": "Pluto TV Séries Drama",
-        "logo": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8"
-      },
-      {
-        "name": "Pluto TV Séries Novelescas",
-        "logo": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
-      },
-      {
-        "name": "Pluto TV Séries Sci-Fi",
-        "logo": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
-      },
-      {
-        "name": "Pluto TV Star Trek",
-        "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
-      },
-      {
-        "name": "Series Classic (720p)",
-        "logo": "https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
-      },
-      {
-        "name": "TNT Novelas Brazil (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8"
-      },
-      {
-        "name": "TV Series 1 As Panteras (480p)",
-        "logo": "https://i.imgur.com/Ff5mj0o.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-      }
-    ],
     "Entertainment": [
       {
         "name": "A&E Latin America Brazil (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/AE_HD/index.m3u8"
+        "url": "http://170.83.16.50/AeE/index.m3u8"
       },
       {
         "name": "Adult Swim Latin America Brazil (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/TRUTV_HD/index.m3u8"
+        "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8"
       },
       {
         "name": "BET Pluto TV",
@@ -1637,7 +1187,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8"
+        "url": "http://170.83.16.50/LIFETIME/index.m3u8"
       },
       {
         "name": "Loading (720p)",
@@ -1828,7 +1378,7 @@
         "logo": "https://i.imgur.com/1r5T6Pw.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/BAND_HD/index.m3u8"
+        "url": "http://170.84.165.204/BAND_HD/index.m3u8"
       },
       {
         "name": "Bem Melhor (720p)",
@@ -1901,11 +1451,11 @@
         "url": "https://play.redecinturaoverde.com.br/playlist.m3u8"
       },
       {
-        "name": "COM Brasil (1080p) [Not 24/7]",
+        "name": "COM Brasil (720p)",
         "logo": "https://i.imgur.com/GrjGwKM.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
+        "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
       },
       {
         "name": "ConecTV Brasil (720p)",
@@ -2010,7 +1560,7 @@
         "logo": "https://i.imgur.com/sz9gTTr.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/RECORD/index.m3u8"
+        "url": "http://170.84.165.204/Record_HD/index.m3u8"
       },
       {
         "name": "Record TV Belem (720p) [Geo-blocked]",
@@ -2097,11 +1647,11 @@
         "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
       },
       {
-        "name": "Rede TV! (1080p)",
+        "name": "Rede TV! (720p)",
         "logo": "https://i.imgur.com/ZJgD38F.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
+        "url": "http://45.162.64.114/REDE_TV/index.m3u8"
       },
       {
         "name": "Rede TV! Mais",
@@ -2404,7 +1954,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/AXN_HD/index.m3u8"
+        "url": "http://170.83.16.50/AXN/index.m3u8"
       },
       {
         "name": "Classique TV (360p)",
@@ -2686,11 +2236,11 @@
         "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
       },
       {
-        "name": "Jovem Pan News (JP News) (1080p) [Not 24/7]",
+        "name": "Jovem Pan News (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8"
+        "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
       },
       {
         "name": "Plena TV (720p)",
@@ -2732,7 +2282,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/CNBC/index.m3u8"
+        "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
       },
       {
         "name": "TV A Folha (720p)",
@@ -2874,7 +2424,7 @@
         "logo": "https://i.imgur.com/O02TF2r.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://138.255.2.6:8084/GLOBOHD/index.m3u8"
+        "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
       },
       {
         "name": "Rede Meio Norte (720p)",
@@ -2902,7 +2452,7 @@
         "logo": "https://i.imgur.com/tc1ALuu.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/SBT_HD/index.m3u8"
+        "url": "http://170.84.165.204/SBT_HD/index.m3u8"
       },
       {
         "name": "SBT Nova Mutum",
@@ -2937,14 +2487,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/SONY_HD/index.m3u8"
+        "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
       },
       {
         "name": "Studio Universal Latin America Brazil (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8"
+        "url": "http://187.102.210.46/universo/index.m3u8"
       },
       {
         "name": "TV A Critica",
@@ -3003,13 +2553,6 @@
         "url": "http://45.162.64.114/TV_CULTURA/index.m3u8"
       },
       {
-        "name": "TV Escola (720p)",
-        "logo": "https://i.imgur.com/OF6aGQj.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8"
-      },
-      {
         "name": "TV Fronteira (480i)",
         "logo": "https://i.imgur.com/NtcoW6G.png",
         "group": "Undefined",
@@ -3022,13 +2565,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://45.162.64.114/GAZETA/index.m3u8"
-      },
-      {
-        "name": "TV Globo Rio de Janeiro (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/GLOBO_HD/index.m3u8"
       },
       {
         "name": "TV Globo Sao Paulo (720p)",
@@ -3122,13 +2658,6 @@
         "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
       },
       {
-        "name": "TVE Cultura (720p)",
-        "logo": "https://i.imgur.com/FpqoWcB.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/TVE/index.m3u8"
-      },
-      {
         "name": "TVE RS (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
         "group": "Undefined",
@@ -3187,11 +2716,11 @@
         "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
       },
       {
-        "name": "Fonte TV (1080p) [Not 24/7]",
+        "name": "Fonte TV",
         "logo": "https://i.imgur.com/7q2BmNc.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+        "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
       },
       {
         "name": "Gospel Cartoon (360p)",
@@ -3240,7 +2769,7 @@
         "logo": "https://i.imgur.com/mP1qfp2.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8"
+        "url": "http://168.197.104.22/REDE_VIDA/index.m3u8"
       },
       {
         "name": "RIT TV (1080p)",
@@ -3250,11 +2779,11 @@
         "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
       },
       {
-        "name": "TV Aparecida (1080p) [Not 24/7]",
+        "name": "TV Aparecida (720p)",
         "logo": "https://i.imgur.com/kxrja0X.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+        "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
       },
       {
         "name": "TV Evangelizar (720p)",
@@ -3356,7 +2885,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
+        "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
       },
       {
         "name": "DumDum (720p)",
@@ -3392,6 +2921,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
+      },
+      {
+        "name": "Nickelodeon (480p)",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
       },
       {
         "name": "Nickelodeon Clássico (720p)",
@@ -3645,11 +3181,11 @@
         "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
       },
       {
-        "name": "Rede Minas (1080p) [Not 24/7]",
+        "name": "Rede Minas (720p)",
         "logo": "https://i.imgur.com/MtQWAHv.png",
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8"
+        "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
       },
       {
         "name": "Santa Cecilia TV (1080p)",
@@ -3735,11 +3271,11 @@
     ],
     "Education;Lifestyle": [
       {
-        "name": "Canal Saúde (720p) [Not 24/7]",
+        "name": "Canal Saude",
         "logo": "https://i.imgur.com/ht4tUOc.png",
         "group": "Education;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8"
+        "url": "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
       }
     ],
     "Cooking": [
@@ -3748,7 +3284,7 @@
         "logo": "https://i.imgur.com/UYksTee.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/CHEF_TV/index.m3u8"
+        "url": "http://168.197.104.22/CHEF_TV/index.m3u8"
       },
       {
         "name": "Tastemade (720p)",
@@ -3825,6 +3361,169 @@
         "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
       }
     ],
+    "Series": [
+      {
+        "name": "CSI: Miami",
+        "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
+      },
+      {
+        "name": "Diff’rent Strokes Arnold",
+        "logo": "https://i.imgur.com/jkmouY3.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
+      },
+      {
+        "name": "Jornada nas Estrelas A Nova Geração",
+        "logo": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
+      },
+      {
+        "name": "Jornada nas Estrelas Deep Space Nine",
+        "logo": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
+      },
+      {
+        "name": "Jornada nas Estrelas Voyager",
+        "logo": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
+      },
+      {
+        "name": "Kenan & Kel",
+        "logo": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+      },
+      {
+        "name": "MasterChef",
+        "logo": "https://i.imgur.com/lOuySbz.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
+      },
+      {
+        "name": "MTV Are you the One?",
+        "logo": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
+      },
+      {
+        "name": "MTV Com o Ex",
+        "logo": "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
+      },
+      {
+        "name": "MTV Dating",
+        "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+      },
+      {
+        "name": "NCIS",
+        "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
+      },
+      {
+        "name": "Nickelodeon iCarly",
+        "logo": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
+      },
+      {
+        "name": "Numbers",
+        "logo": "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
+      },
+      {
+        "name": "Pluto TV Novelas",
+        "logo": "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Ação",
+        "logo": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Criminais",
+        "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Drama",
+        "logo": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Novelescas",
+        "logo": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
+      },
+      {
+        "name": "Pluto TV Séries Sci-Fi",
+        "logo": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
+      },
+      {
+        "name": "Pluto TV Star Trek",
+        "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
+      },
+      {
+        "name": "Series Classic (720p)",
+        "logo": "https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
+      },
+      {
+        "name": "TNT Novelas Brazil (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8"
+      },
+      {
+        "name": "TV Series 1 As Panteras (480p)",
+        "logo": "https://i.imgur.com/Ff5mj0o.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+      }
+    ],
     "Documentary": [
       {
         "name": "Detetives Médicos",
@@ -3881,29 +3580,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "FashionTV (720p)",
-        "logo": "https://i.imgur.com/cZWKyuM.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8"
-      },
-      {
-        "name": "Pluto TV Cozinha",
-        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
-      },
-      {
-        "name": "Pluto TV Viagens",
-        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
       }
     ],
     "Animation": [
@@ -3984,7 +3660,7 @@
         "logo": "https://i.imgur.com/CDPCF2X.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8"
+        "url": "http://168.197.104.22/MUSIC/index.m3u8"
       },
       {
         "name": "Pluto TV Karaokê por Stingray (720p)",
@@ -4097,6 +3773,22 @@
         "url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
       }
     ],
+    "Lifestyle": [
+      {
+        "name": "Pluto TV Cozinha",
+        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
+      },
+      {
+        "name": "Pluto TV Viagens",
+        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
+      }
+    ],
     "Cooking;Lifestyle": [
       {
         "name": "Pluto TV KFOOD",
@@ -4157,7 +3849,7 @@
         "logo": "https://i.imgur.com/3tBJERH.png",
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
+        "url": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8"
       },
       {
         "name": "TV Paraná Turismo (720p) [Not 24/7]",

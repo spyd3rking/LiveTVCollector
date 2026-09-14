@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 09:30:41",
+  "date": "2026-09-14 09:13:26",
   "channels": {
     "Entertainment": [
       {
@@ -932,7 +932,7 @@
       },
       {
         "name": "Telecity Lombardia (1080p)",
-        "logo": "https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg",
+        "logo": "https://i.imgur.com/TxApoQf.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8"
@@ -1115,13 +1115,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport Basket",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport F1",
@@ -1553,11 +1546,11 @@
         "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
       },
       {
-        "name": "Lira TV (720p) [Not 24/7]",
+        "name": "Lira TV",
         "logo": "https://i.imgur.com/sC9ELuY.jpg",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8"
+        "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
       },
       {
         "name": "Minformo TV (720p)",
@@ -2088,11 +2081,11 @@
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8"
       },
       {
-        "name": "Rete 55 (720p) [Not 24/7]",
+        "name": "Rete 55",
         "logo": "https://i.imgur.com/UtS9YLc.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stream.internet.one/Rete55_Live/index.m3u8"
+        "url": "https://live1.giocabet.tv/stream/6/index.m3u8"
       },
       {
         "name": "Rete Biella TV (720p) [Not 24/7]",

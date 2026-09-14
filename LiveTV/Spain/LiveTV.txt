@@ -10525,13 +10525,6 @@ Logo: https://i.imgur.com/49ZENis.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 
-Group: Classic;Comedy;Series
-Name: Aqui No Hay Quien Viva [_Geo-blocked_]
-URL: https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
-Logo: https://i.imgur.com/lfco9ht.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
-
 Group: Classic;Movies
 Name: Bollywood Classic
 URL: https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
@@ -29312,11 +29305,6 @@ URL: https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 Logo: https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: Disney Junior (576p)
-URL: https://bbb.exoadash.com/TVD1561/index.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
 Name: iCarly
 URL: https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 Logo: https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png
@@ -29379,7 +29367,7 @@ Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/
 
 Group: Kids;Public
 Name: Clan (1080p)
-URL: http://185.47.212.25:8080/Clan_HD/index.m3u8
+URL: https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 Logo: https://i.ibb.co/vv3FC2Nv/clan.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
@@ -39203,8 +39191,8 @@ URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u
 Logo: https://i.imgur.com/GzI3RC4.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: Actualidad 360 (1080p) [Geo-blocked]
-URL: https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+Name: Actualidad 360
+URL: https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 Logo: https://i.imgur.com/3YeTu0n.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
@@ -44009,6 +43997,11 @@ URL: https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 Logo: https://i.imgur.com/EOttSdW.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: La Rosa de Guadalupe (360p)
+URL: https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
+Logo: https://i.imgur.com/tK9zOgo.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 Name: Los archivos del FBI
 URL: https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
 Logo: https://i.imgur.com/eDCdJO2.png
@@ -45900,8 +45893,8 @@ URL: http://88.212.15.19/live/real_madrid_tv/index.m3u8
 Logo: https://i.imgur.com/5pMo7dL.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: Teledeporte (720p) [Geo-blocked]
-URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+Name: Teledeporte
+URL: https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 Logo: https://i.ibb.co/0jxLdjnY/TDP.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
@@ -46097,6 +46090,11 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 Name: Melrose Place
 URL: https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 Logo: https://i.imgur.com/hXDj0fV.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: Tac12
+URL: https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
+Logo: https://i.imgur.com/XHOVbSu.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Telemadrid HD (1080p)

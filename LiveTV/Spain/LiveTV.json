@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 07:17:06",
+  "date": "2026-09-14 07:16:03",
   "channels": {
     "General": [
       {
@@ -22404,11 +22404,11 @@
         "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
       },
       {
-        "name": "Actualidad 360 (1080p) [Geo-blocked]",
+        "name": "Actualidad 360",
         "logo": "https://i.imgur.com/3YeTu0n.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8"
+        "url": "https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8"
       },
       {
         "name": "France 24 Español (1080p)",
@@ -32557,13 +32557,6 @@
         "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
       },
       {
-        "name": "Disney Junior (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://bbb.exoadash.com/TVD1561/index.mpd"
-      },
-      {
         "name": "iCarly",
         "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
         "group": "Kids",
@@ -34526,6 +34519,13 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8"
+      },
+      {
+        "name": "La Rosa de Guadalupe (360p)",
+        "logo": "https://i.imgur.com/tK9zOgo.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8"
       },
       {
         "name": "Los archivos del FBI",
@@ -52238,11 +52238,11 @@
         "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8"
       },
       {
-        "name": "Teledeporte (720p) [Geo-blocked]",
+        "name": "Teledeporte",
         "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+        "url": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
       }
     ],
     "Business": [
@@ -64403,15 +64403,6 @@
         "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
       }
     ],
-    "Classic;Comedy;Series": [
-      {
-        "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-        "logo": "https://i.imgur.com/lfco9ht.png",
-        "group": "Classic;Comedy;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8"
-      }
-    ],
     "Undefined": [
       {
         "name": "Canal 10 Empordà (360p) [Not 24/7]",
@@ -64440,6 +64431,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
+      },
+      {
+        "name": "Tac12",
+        "logo": "https://i.imgur.com/XHOVbSu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
       },
       {
         "name": "Telemadrid HD (1080p)",
@@ -64518,7 +64516,7 @@
         "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
         "group": "Kids;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8"
+        "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8"
       }
     ],
     "Culture;Public": [

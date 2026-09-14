@@ -795,7 +795,7 @@
     "name": "Telecity Lombardia (1080p)",
     "type": "General",
     "url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8",
-    "img": "https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg"
+    "img": "https://i.imgur.com/TxApoQf.png"
   },
   {
     "name": "TeleMajg (480p)",
@@ -946,12 +946,6 @@
     "type": "Sports",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
     "img": "https://i.imgur.com/PGm944g.png"
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport Basket",
-    "type": "Sports",
-    "url": "https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png"
   },
   {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport F1",
@@ -1320,9 +1314,9 @@
     "img": "https://www.omnys.com/media/news/lac-news24-icona.png"
   },
   {
-    "name": "Lira TV (720p) [Not 24/7]",
+    "name": "Lira TV",
     "type": "News",
-    "url": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8",
+    "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
     "img": "https://i.imgur.com/sC9ELuY.jpg"
   },
   {
@@ -1770,9 +1764,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"
   },
   {
-    "name": "Rete 55 (720p) [Not 24/7]",
+    "name": "Rete 55",
     "type": "Undefined",
-    "url": "https://stream.internet.one/Rete55_Live/index.m3u8",
+    "url": "https://live1.giocabet.tv/stream/6/index.m3u8",
     "img": "https://i.imgur.com/UtS9YLc.png"
   },
   {

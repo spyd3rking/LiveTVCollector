@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 08:01:54",
+  "date": "2026-09-14 07:57:40",
   "channels": {
     "Religious": [
       {
@@ -102,21 +102,44 @@
     ],
     "Documentary": [
       {
-        "name": "National Geographic HD (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+        "name": "National Geographic (576p) [Geo-blocked]",
+        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://149.71.34.166:8002/play/a013/index.m3u8"
+        "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Nick Jr. (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
       },
       {
-        "name": "National Geographic Wild HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-        "group": "Documentary",
+        "name": "Nickelodeon (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+        "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
-        "url": "http://149.71.34.166:8002/play/a012/index.m3u8"
+        "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+      },
+      {
+        "name": "Sonic (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
       }
     ],
     "Entertainment;General": [
+      {
+        "name": "Ray TV HD",
+        "logo": "https://i.imgur.com/QIkgiEn.png",
+        "group": "Entertainment;General",
+        "source": "https://iptv-org.github.io/iptv/countries/np.m3u",
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
+      },
       {
         "name": "Ray TV HD (576p)",
         "logo": "https://i.imgur.com/QIkgiEn.png",

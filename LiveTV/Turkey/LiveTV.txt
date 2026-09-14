@@ -12256,6 +12256,13 @@ Logo: https://i.imgur.com/CLzP4vL.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
+Group: Culture;General
+Name: TRT Genc (1440p) [Geo-blocked]
+URL: https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+Logo: https://i.imgur.com/fCHQYWS.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
 Group: Culture;General;Religious
 Name: Sercem TV (1080p)
 URL: https://canli.sercemtv.com.tr/hls/0/stream.m3u8
@@ -12269,13 +12276,13 @@ URL: https://nord.ayakkabiparti.lol/bbc/index.m3u8
 Logo: https://i.imgur.com/nGSsUd4.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: National Geographic (1080p) [Geo-blocked]
-URL: https://saran-live.ercdn.net/natgeohd/index.m3u8
+Name: like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic
+URL: https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: National Geographic Wild (1080p) [Geo-blocked]
-URL: https://saran-live.ercdn.net/natgeowild/index.m3u8
+Name: like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Wild
+URL: https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12323,6 +12330,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Edessa TV (1080p)
 URL: https://canli.edessatv.com/hls/stream.m3u8
 Logo: https://i.imgur.com/rhU6j9I.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: Kanal 7 (720p)
+URL: https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+Logo: https://i.imgur.com/0gq9xOm.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Kanal 7 Avrupa (720p) [Not 24/7]
@@ -12407,8 +12419,8 @@ URL: https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 Logo: https://i.imgur.com/x9kHsXo.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Hunat TV (720p) [Geo-blocked]
-URL: https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+Name: Hunat TV (480p) [Not 24/7]
+URL: https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
 Logo: https://i.imgur.com/NrxHGnb.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12490,11 +12502,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: On4 TV (1080p)
 URL: https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 Logo: https://i.imgur.com/qGRa1KI.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: Sozcu TV (1080p)
-URL: http://5.178.103.239:55/yt1/szctv.m3u8
-Logo: https://i.imgur.com/BxpdvsG.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TGRT Belgesel TV (576p) [Not 24/7]
@@ -12627,11 +12634,6 @@ URL: https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 Logo: https://i.imgur.com/nw8Sa2z.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: FilmBox
-URL: http://46.149.191.219:9100/play/a015
-Logo: https://i.imgur.com/VyaslIY.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: MovieSmart Turk (576p)
 URL: http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 Logo: https://i.imgur.com/DWN9ulT.png
@@ -12719,6 +12721,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: DHA (720p) [Not 24/7]
 URL: https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 Logo: https://i.imgur.com/VZhag2x.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: Ekoturk (720p)
+URL: https://cdn.ekoturk.net/hls/master.m3u8
+Logo: https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Finans Turk TV (720p)
@@ -12896,6 +12903,11 @@ URL: https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u
 --------------------------------------------------
+Name: ATV FHD
+URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv.png
+Source: https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box2.m3u
+--------------------------------------------------
 
 Group: Uncategorized
 Name: SZC TV 01 | ULUSAL
@@ -12950,14 +12962,14 @@ URL: https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3
 Logo: https://i.imgur.com/3CWV8bS.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Power Turk (1080p) [Not 24/7]
-URL: https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-Logo: https://i.imgur.com/9OPoXQG.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Power TV (1080p)
 URL: https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 Logo: https://i.imgur.com/XSL1gd7.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: PowerTürk TV (720p)
+URL: https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+Logo: https://i.imgur.com/9OPoXQG.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Qaf TV (1080p)

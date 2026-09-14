@@ -678,6 +678,12 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "HRT int HD",
+    "type": "Uncategorized",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-dash/hrt4.mpd",
+    "img": "https://picserve.netplus.ch/channels/hrt4.png"
+  },
+  {
     "name": "video italia HD",
     "type": "Uncategorized",
     "url": "https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8",
@@ -1334,7 +1340,7 @@
   {
     "name": "KISS KISS HD",
     "type": "Uncategorized",
-    "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist.m3u8",
+    "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8?FLID=1",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1422,7 +1428,7 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "SPORTDIGITAL FREE HD",
+    "name": "SPORTDIGITAL FREE HD deutsch",
     "type": "Uncategorized",
     "url": "https://jmp2.uk/stvp-DEAJ0500429A",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
@@ -1514,7 +1520,7 @@
   {
     "name": "RTS Info HD",
     "type": "news",
-    "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8",
+    "url": "https://rtsinfo-d.akamaized.net/out/v1/lsvs/rts-info/cmaf/hls-index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1828,6 +1834,12 @@
     "type": "GR news",
     "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8",
     "img": "https://static.epg.best/gr/eptnews.gr.png"
+  },
+  {
+    "name": "ERT Cosmos HD",
+    "type": "GR news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8",
+    "img": "https://picserve.netplus.ch/channels/ert3.png"
   },
   {
     "name": "FUN RADIO TV BE HD",
@@ -2220,6 +2232,12 @@
     "img": "https://picserve.netplus.ch/channels/quest.png"
   },
   {
+    "name": "Canal Sur Andalucia TV",
+    "type": "ES generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8",
+    "img": "https://picserve.netplus.ch/channels/andaluciatelevision.png"
+  },
+  {
     "name": "Al Arabiya HD",
     "type": "UA generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8",
@@ -2254,5 +2272,11 @@
     "type": "HR generalist",
     "url": "https://viamotionhsi.netplus.ch/live/eds/hrt4/browser-HLS8/hrt4.m3u8",
     "img": "https://picserve.netplus.ch/channels/hrt4.png"
+  },
+  {
+    "name": "CGTN news HD",
+    "type": "CN news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8",
+    "img": "https://picserve.netplus.ch/channels/cctvnews.png"
   }
 ]

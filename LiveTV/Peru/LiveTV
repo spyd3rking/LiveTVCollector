@@ -342,6 +342,12 @@
     "img": "https://i.imgur.com/nHMqAHn.jpeg"
   },
   {
+    "name": "Rumbo Minero TV (1080p)",
+    "type": "General",
+    "url": "http://45.70.201.81:8000/play/a018/index.m3u8",
+    "img": "https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png"
+  },
+  {
     "name": "Siscom TV",
     "type": "General",
     "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
@@ -474,9 +480,9 @@
     "img": "https://i.imgur.com/FiptbGQ.png"
   },
   {
-    "name": "Visión Sur TV (1080p) [Not 24/7]",
+    "name": "Vision Sur (720p)",
     "type": "General",
-    "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8",
     "img": "https://i.imgur.com/AbZYWEQ.png"
   },
   {
@@ -540,9 +546,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
   },
   {
-    "name": "Antares Televisión (720p) [Not 24/7]",
+    "name": "Antares Television",
     "type": "Entertainment",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "url": "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
     "img": "https://i.imgur.com/05gwtk2.png"
   },
   {
@@ -624,9 +630,9 @@
     "img": "https://i.imgur.com/zCVh765.png"
   },
   {
-    "name": "JN19 (1080p) [Not 24/7]",
+    "name": "JN 19 (720p)",
     "type": "Religious",
-    "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+    "url": "http://187.102.210.46/JN19/index.m3u8",
     "img": "https://i.imgur.com/dudxyqk.png"
   },
   {
@@ -786,6 +792,12 @@
     "img": "https://i.imgur.com/fY9256H.png"
   },
   {
+    "name": "Canal N (576p)",
+    "type": "News",
+    "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+    "img": "https://i.imgur.com/Xytvw3J.png"
+  },
+  {
     "name": "Conecta2TV (720p) [Not 24/7]",
     "type": "News",
     "url": "https://live.obslivestream.com/conecta2/index.m3u8",
@@ -850,18 +862,6 @@
     "type": "News",
     "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
     "img": "https://i.imgur.com/TOnknEW.png"
-  },
-  {
-    "name": "AXN Latin America Andes (1080p)",
-    "type": "Movies",
-    "url": "http://177.234.249.178:8888/AXN/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "name": "Cinecanal Pacific (1080p)",
-    "type": "Movies",
-    "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"
   },
   {
     "name": "Bella Abanquina TV (720p)",
@@ -944,7 +944,7 @@
   {
     "name": "SolTV",
     "type": "Undefined",
-    "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8",
+    "url": "https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8",
     "img": "https://i.imgur.com/GtNkuAc.png"
   },
   {
@@ -1014,6 +1014,36 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png"
   },
   {
+    "name": "Chikitoonz (1080p)",
+    "type": "Kids",
+    "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+    "img": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png"
+  },
+  {
+    "name": "Nick Jr. Latin America (720p)",
+    "type": "Kids",
+    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
+    "img": "https://i.imgur.com/KT4tdQs.png"
+  },
+  {
+    "name": "Nickelodeon Latin America (1080p)",
+    "type": "Kids",
+    "url": "http://15.204.246.24:8080/NickHD/index.m3u8",
+    "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "name": "Peques TV (720p)",
+    "type": "Kids",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+    "img": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png"
+  },
+  {
+    "name": "Cinecanal Pacific (1080p)",
+    "type": "Movies",
+    "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png"
+  },
+  {
     "name": "Comedy Central Latin America (1080p)",
     "type": "Comedy",
     "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8",
@@ -1044,22 +1074,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
-    "name": "History Latin America (1080p)",
-    "type": "Documentary",
-    "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
-  },
-  {
-    "name": "JNE TV (720p)",
-    "type": "Legislative",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
-    "img": "https://i.imgur.com/b25XfCj.png"
-  },
-  {
-    "name": "Justicia TV (1080p)",
-    "type": "Legislative",
-    "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
-    "img": "https://i.imgur.com/VOjLXJd.png"
+    "name": "DSports",
+    "type": "Sports",
+    "url": "http://138.121.113.175:8000/play/a0cj/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png"
   },
   {
     "name": "L1 (1080p)",
@@ -1098,40 +1116,34 @@
     "img": "https://i.imgur.com/DJ05m8s.png"
   },
   {
+    "name": "History Latin America (1080p)",
+    "type": "Documentary",
+    "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
+  },
+  {
+    "name": "JNE TV (720p)",
+    "type": "Legislative",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+    "img": "https://i.imgur.com/b25XfCj.png"
+  },
+  {
+    "name": "Justicia TV (1080p)",
+    "type": "Legislative",
+    "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
+    "img": "https://i.imgur.com/VOjLXJd.png"
+  },
+  {
     "name": "Latina Clasicos (1080p)",
     "type": "Series",
     "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
     "img": "https://i.imgur.com/q0dAWyj.png"
   },
   {
-    "name": "Nick Jr. Latin America (1080p)",
-    "type": "Kids",
-    "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
-    "img": "https://i.imgur.com/KT4tdQs.png"
-  },
-  {
-    "name": "Nickelodeon Latin America (1080p)",
-    "type": "Kids",
-    "url": "http://15.204.246.24:8080/NickHD/index.m3u8",
-    "img": "https://i.imgur.com/E84jnP8.png"
-  },
-  {
-    "name": "Peques TV (720p)",
-    "type": "Kids",
-    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
-    "img": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png"
-  },
-  {
     "name": "Star Channel Latin America (1080p)",
     "type": "Movies;Series",
     "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png"
-  },
-  {
-    "name": "01 | WILLAX |",
-    "type": "TV PERU",
-    "url": "http://187.102.210.46/WILLAX/index.m3u8",
-    "img": "https://i.imgur.com/4NMlwrm.jpeg"
   },
   {
     "name": "02 | LATINA TV ᴴᴰ |",
@@ -1296,15 +1308,33 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/BellaAbanquina.jpg"
   },
   {
+    "name": "26 | ANTARES TV |",
+    "type": "TV PERU",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/antares.jpg"
+  },
+  {
     "name": "27 | LA TELE |",
     "type": "TV PERU",
     "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8",
     "img": "https://i.imgur.com/BDqtjX2.jpeg"
   },
   {
+    "name": "28.2 | L1 MAX/DEPORTES |",
+    "type": "TV PERU",
+    "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "29 | BICOLOR+/DEPORTES |",
     "type": "TV PERU",
     "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "29.2 | MOVISTAR PLUS |",
+    "type": "TV PERU",
+    "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1398,6 +1428,12 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TeleselvaTv.jpg"
   },
   {
+    "name": "50 | VISIÓN SUR |",
+    "type": "TV PERU",
+    "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/VisionSur.jpg"
+  },
+  {
     "name": "51 | IDENTIDAD TV |",
     "type": "TV PERU",
     "url": "https://stream.mediacorp.pe/srt/2/chunks.m3u8",
@@ -1452,12 +1488,6 @@
     "img": "https://i.imgur.com/bWCOZRY.jpeg"
   },
   {
-    "name": "61 | USMP TV |",
-    "type": "TV PERU",
-    "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usmp.jpg"
-  },
-  {
     "name": "62 | CAYETANO PLUS |",
     "type": "TV PERU",
     "url": "https://stream.cayetano.plus:3701/multi_web/play_1080.m3u8",
@@ -1488,12 +1518,6 @@
     "img": "http://imgfz.com/i/Xyw1ONT.jpeg"
   },
   {
-    "name": "70 | GENIOS TV |",
-    "type": "TV PERU",
-    "url": "https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/genios1.jpg"
-  },
-  {
     "name": "72 | VIA ALTOMAYO TV |",
     "type": "TV PERU",
     "url": "https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8",
@@ -1510,12 +1534,6 @@
     "type": "TV PERU",
     "url": "https://play.agenciastreaming.com:8081/nuestrocanal/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/NuestroCanal.jpg"
-  },
-  {
-    "name": "76 | NOVA STAR TV |",
-    "type": "TV PERU",
-    "url": "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/NovaStar1.jpg"
   },
   {
     "name": "77 | TV PLUS CHINCHA |",
@@ -1638,18 +1656,6 @@
     "img": "https://i.imgur.com/bKJZvhb.jpeg"
   },
   {
-    "name": "103 | CANAL X TV |",
-    "type": "TV PERU",
-    "url": "https://protv.xtv.pe/xtv/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/UXUXNqD.jpeg"
-  },
-  {
-    "name": "104 | CANAL X TV PLUS |",
-    "type": "TV PERU",
-    "url": "https://protv.xtv.pe/xtvmas/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/vYWNy8z.jpeg"
-  },
-  {
     "name": "106 | RTV TOTAL |",
     "type": "TV PERU",
     "url": "https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8",
@@ -1686,13 +1692,13 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/SolarTv.jpg"
   },
   {
-    "name": "113 | COSITEL PUNO TV |",
+    "name": "113 | COSITEL PERU TV |",
     "type": "TV PERU",
-    "url": "https://vivo.iks.lat/Cositel_Juliaca_hls/tracks-v1a1/mono.m3u8",
+    "url": "https://stream.radionexcloud.com/CositelTV/tracks-v1a1/mono.ts.m3u8",
     "img": "https://i.imgur.com/smtfr3v.jpeg"
   },
   {
-    "name": "113.1 | COSITEL PERU TV |",
+    "name": "113.1 | SILLUSTANI TV |",
     "type": "TV PERU",
     "url": "https://vod3.qbi.lat:15123/cositel/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg"
@@ -1872,7 +1878,7 @@
     "img": "https://i.imgur.com/8mwoYpu.jpeg"
   },
   {
-    "name": "151 | UNICENTRO TV |",
+    "name": "151 | NEXXOR TV |",
     "type": "TV PERU",
     "url": "https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/playlist.m3u8",
     "img": "https://i.imgur.com/lbgpXyV.jpeg"

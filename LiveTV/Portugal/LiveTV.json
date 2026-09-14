@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30 08:55:08",
+  "date": "2026-09-14 08:41:16",
   "channels": {
     "TV": [
       {
@@ -182,7 +182,7 @@
         "logo": "https://www.naminhaterra.com/assets/images/Logo-1802x716.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8"
+        "url": "https://rtmp.w2.stream-sx.com/live4/lseyJP9j/index.m3u8"
       },
       {
         "name": "RFPtv",
@@ -325,7 +325,7 @@
         "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
       },
       {
-        "name": "shemaroo Bollywood",
+        "name": "Shemaroo Bollywood",
         "logo": "https://i.imgur.com/TFxLj80.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
@@ -413,14 +413,14 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://live.presstv.ir/hls/hispantv.m3u8"
+        "url": "https://cloud.odysee.live/content/df0a443c1e8e53babc41fede14548c9b5fd1a6d2/live.m3u8"
       },
       {
         "name": "Press TV",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://live.presstv.ir/hls/presstv.m3u8"
+        "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/live.m3u8"
       },
       {
         "name": "Free Speech TV",
@@ -448,14 +448,14 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+        "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8"
       },
       {
         "name": "CGTN Français",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+        "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8"
       },
       {
         "name": "CGTN Documentary",
@@ -708,6 +708,13 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8"
+      },
+      {
+        "name": "Canal 22",
+        "logo": "https://i.imgur.com/6qiYvhe.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w770096741.m3u8"
       },
       {
         "name": "Azteca Internacional",
@@ -3054,6 +3061,20 @@
     ],
     "Eixo do Mal": [
       {
+        "name": "Eixo do Mal - 10/9/2026",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",
+        "group": "Eixo do Mal",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/10/b5c5689c-aaea-4ad1-89df-28a90048dc2c/video.m3u8"
+      },
+      {
+        "name": "Eixo do Mal - 3/9/2026",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",
+        "group": "Eixo do Mal",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/03/c189ef5a-1d97-4211-b15a-d0d5a4bd65cc/video.m3u8"
+      },
+      {
         "name": "Eixo do Mal - 30/7/2026",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",
         "group": "Eixo do Mal",
@@ -4469,6 +4490,20 @@
       }
     ],
     "PCNELID": [
+      {
+        "name": "PCNELID - 11/9/2026",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",
+        "group": "PCNELID",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/11/bd78019b-d631-40aa-a7b2-84f975dce75c/video.m3u8"
+      },
+      {
+        "name": "PCNELID - 4/9/2026",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",
+        "group": "PCNELID",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://videos.impresa.pt/videos/hls/sicnot/2026/09/04/4cb7c455-639d-4aef-ae65-f896bdc4fa9f/video.m3u8"
+      },
       {
         "name": "PCNELID - 31/7/2026",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",
@@ -6272,21 +6307,42 @@
         "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
         "group": "O Planeta Vivo",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd"
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/index-v1-a1.m3u8"
       },
       {
         "name": "O Planeta Vivo - S01E02",
         "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
         "group": "O Planeta Vivo",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd"
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/index-f3-v1-a1.m3u8"
       },
       {
         "name": "O Planeta Vivo - S01E03",
         "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
         "group": "O Planeta Vivo",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd"
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/index-f3-v1-a1.m3u8"
+      },
+      {
+        "name": "O Planeta Vivo - S01E04",
+        "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
+        "group": "O Planeta Vivo",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240724161004e004t5563d.mp4,.urlset/index-f3-v1-a1.m3u8"
+      },
+      {
+        "name": "O Planeta Vivo - S01E05",
+        "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
+        "group": "O Planeta Vivo",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240731161003e005t4181d.mp4,.urlset/index-f3-v1-a1.m3u8"
+      },
+      {
+        "name": "O Planeta Vivo - S01E06",
+        "logo": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg",
+        "group": "O Planeta Vivo",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_hi.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240807161003e006t0948d.mp4,.urlset/index-f3-v1-a1.m3u8"
       }
     ],
     "Teste": [
@@ -6453,14 +6509,39 @@
         "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8"
       }
     ],
-    "Sports": [
+    "Kids": [
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 5",
-        "logo": "https://i.imgur.com/HD2XaeS.png",
-        "group": "Sports",
+        "name": "Disney Channel (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8"
+        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "Euronews Portuguese (720p)",
+        "logo": "https://i.imgur.com/8t9mdg9.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
       },
+      {
+        "name": "RTP Noticias (504p) [Not 24/7]",
+        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
+      },
+      {
+        "name": "Trailers (1080p)",
+        "logo": "https://i.imgur.com/RwZ1hCN.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
+      }
+    ],
+    "Sports": [
       {
         "name": "FIFA+ Portuguese (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -6509,38 +6590,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Disney Channel (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
-      }
-    ],
-    "News": [
-      {
-        "name": "Euronews Portuguese (720p)",
-        "logo": "https://i.imgur.com/8t9mdg9.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
-      },
-      {
-        "name": "RTP Noticias (504p) [Not 24/7]",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
-      },
-      {
-        "name": "Trailers (1080p)",
-        "logo": "https://i.imgur.com/RwZ1hCN.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
       }
     ],
     "Animation;Kids;Religious": [
@@ -6740,14 +6789,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIyIFBNJmhhc2hfdmFsdWU9ekZXQXJiWmhST1UyOEZXeC9FN05mdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTczYTA4ODllLTJlZDktNGU5ZC05ZTQzLTE1OWQ5YTIzMzY0NQ==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDI2IDEwOjI5OjUxIFBNJmhhc2hfdmFsdWU9VlhrQUVoSjRvaldZWlhQNW1uMklydz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc2NDRmOWVmLTZmMzItNDdkYy04OWU3LWM4NTk5MWY0MGUyNw==/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIxIFBNJmhhc2hfdmFsdWU9cGJ2RDV5dVdIN1JtM1F6bXlmRG5iUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiY2NjY2Q2LTA5YjQtNDE2NC04MzFiLWFhYTYyMTM1YTZkYw==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDI2IDEwOjI5OjUwIFBNJmhhc2hfdmFsdWU9Y2RCS2ltWEhkYWJKSTA4K3hvOFBqQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM5NGM4MWNhLThkMjUtNDlhZi05MDU0LWU2M2JmMjdiM2M5NA==/"
       },
       {
         "name": "Porto Canal ⚽️ 🇵🇹",
@@ -6804,6 +6853,13 @@
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8?wowzasessionid=@iprtlk"
+      },
+      {
+        "name": "NMT TV 🇵🇹",
+        "logo": "https://www.naminhaterra.com/assets/images/Logo-1802x716.png",
+        "group": "Portugal 🇵🇹",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8"
       }
     ],
     "News 🇵🇹🇧🇷": [
@@ -6840,7 +6896,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDEwOjQyOjIxIFBNJmhhc2hfdmFsdWU9L3gxdEk2cCt6V0hXT0kxeW5aWVRzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmNmQ4NjFmLTI2NmEtNDBlMS1iMjMwLTQzNDg3MzQ5MzM5Zg==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDI2IDEwOjI5OjUxIFBNJmhhc2hfdmFsdWU9QXc0VDJNNlVlQVQ1Z1ZPN3U3ckdwdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ0NWQwOGFlLWExZmEtNDdjNS04YmU5LWQwNzA2ZDZmNGRlMg==/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -8163,6 +8219,13 @@
     ],
     "Channels 🇫🇷": [
       {
+        "name": "W9 🇫🇷",
+        "logo": "https://logo.m3uassets.com/w9.png",
+        "group": "Channels 🇫🇷",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd"
+      },
+      {
         "name": "TV5 Monde Voyage 🇫🇷 (💬🇧🇷)",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png",
         "group": "Channels 🇫🇷",
@@ -8286,13 +8349,6 @@
     ],
     "All Sports 🌎": [
       {
-        "name": "Sky Sport F1 🇬🇧 🏎️",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://xemzi.short.gy/2000005"
-      },
-      {
         "name": "MotoGP Channel (vpn 🇺🇸) 🏍",
         "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MotoGP_Channel_Amazon_Prime_logo_1920x1080.png",
         "group": "All Sports 🌎",
@@ -8370,48 +8426,6 @@
         "url": "https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
       },
       {
-        "name": "Fox +",
-        "logo": "https://logo.m3uassets.com/fox+.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd"
-      },
-      {
-        "name": "Fox Sports Premium 🇲🇽",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
-      },
-      {
-        "name": "Fox Deportes",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
-      },
-      {
-        "name": "Fox Sports 1 🇲🇽",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
-      },
-      {
-        "name": "Fox Sports 2 🇲🇽",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd"
-      },
-      {
-        "name": "Fox Sports 3 🇲🇽",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd"
-      },
-      {
         "name": "DSports 🇨🇷🇬🇹",
         "logo": "https://logo.m3uassets.com/dsports.png",
         "group": "All Sports 🌎",
@@ -8452,6 +8466,27 @@
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://45.167.1.136:8000/play/a00d"
+      },
+      {
+        "name": "GE TV 🇧🇷",
+        "logo": "https://imgur.com/qHZ23Ue.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8"
+      },
+      {
+        "name": "Cazetv 🇧🇷⚽️🎾🏐 (vpn 🇺🇸)",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8"
+      },
+      {
+        "name": "Cazetv 🇧🇷⚽️🎾🏐 (Eventos)",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
       },
       {
         "name": "Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴",
@@ -8510,11 +8545,60 @@
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd"
       },
       {
+        "name": "Fox +",
+        "logo": "https://logo.m3uassets.com/fox+.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd"
+      },
+      {
+        "name": "Fox Sports Premium 🇲🇽",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
+      },
+      {
+        "name": "Fox Deportes",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+      },
+      {
+        "name": "Fox Sports 1 🇲🇽",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
+      },
+      {
+        "name": "Fox Sports 2 🇲🇽",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd"
+      },
+      {
+        "name": "Fox Sports 3 🇲🇽",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd"
+      },
+      {
         "name": "FS1 🇺🇸",
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd"
+      },
+      {
+        "name": "FS1 🇺🇸",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
       },
       {
         "name": "FS2 🇺🇸",
@@ -8524,11 +8608,67 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
       },
       {
-        "name": "Sky Sport Premier League 🇦🇹",
+        "name": "UEFA Champions League",
+        "logo": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8"
+      },
+      {
+        "name": "Premier League TV",
+        "logo": "https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd"
+      },
+      {
+        "name": "CBS Sports 🇺🇸",
+        "logo": "https://logo.m3uassets.com/cbssportsnetwork.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
+      },
+      {
+        "name": "CBS Sports Golazo 🇺🇸",
+        "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D"
+      },
+      {
+        "name": "Sky Sport Premier League 🇬🇧",
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd"
+        "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=qd2MUJx2uKe8vQ1n81yoEA&e=2088940274&scheme=https"
+      },
+      {
+        "name": "Sky Sport Main Event 🇬🇧",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1959"
+      },
+      {
+        "name": "SS Select 1 🇮🇳",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1444"
+      },
+      {
+        "name": "SS Select 2 🇮🇳",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1452"
+      },
+      {
+        "name": "SS Sports 2 🇮🇳",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
       },
       {
         "name": "TNT Sports 1 🇬🇧⚽️🏉🎱🏏",
@@ -8566,6 +8706,13 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd"
       },
       {
+        "name": "Fubo Sports 2 🇺🇸",
+        "logo": "https://logo.m3uassets.com/fubosportsnetwork.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd"
+      },
+      {
         "name": "PremierSports 1 🇬🇧",
         "logo": "https://iili.io/KWnBoiB.png",
         "group": "All Sports 🌎",
@@ -8594,48 +8741,6 @@
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
       },
       {
-        "name": "laliga hypermotion 🇪🇸",
-        "logo": "https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
-      },
-      {
-        "name": "Canal Goat 🇧🇷",
-        "logo": "https://i.imgur.com/j91PkWC.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8"
-      },
-      {
-        "name": "Cazetv 🇧🇷⚽️🎾🏐",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8"
-      },
-      {
-        "name": "Cazetv (Eventos)🇧🇷⚽️🎾🏐",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase"
-      },
-      {
-        "name": "CBS Sports 🇺🇸",
-        "logo": "https://logo.m3uassets.com/cbssportsnetwork.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
-      },
-      {
-        "name": "CBS Sports Golazo 🇺🇸",
-        "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D"
-      },
-      {
         "name": "tdp 🇪🇸",
         "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp",
         "group": "All Sports 🌎",
@@ -8651,31 +8756,10 @@
       },
       {
         "name": "Bein Sport Xtra ñ 🇺🇸🇲🇽",
-        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp",
+        "logo": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Bein Sports 1 🇫🇷⚽️🏉🏀",
-        "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://99.27.51.147:8080/BeinSport/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 2 🇫🇷🏈",
-        "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://99.27.51.147:8080/BeinSport2/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 3 🇫🇷🎾🤾‍",
-        "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://99.27.51.147:8080/BeinSport3/index.m3u8"
       },
       {
         "name": "Bein Sports 1 🇦🇺",
@@ -8720,18 +8804,25 @@
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8"
       },
       {
-        "name": "Bein Sports 3 🇹🇷",
-        "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://biraz.1386503.xyz/checklist/androstreamlivebs3.m3u8"
-      },
-      {
         "name": "Bein Sports 4 🇹🇷",
         "logo": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8"
+      },
+      {
+        "name": "Setanta Sports + 🇺🇦",
+        "logo": "https://logo.m3uassets.com/setantasports.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://stream.mcquack.net/390/index.m3u8"
+      },
+      {
+        "name": "Setanta Sports 🇺🇦",
+        "logo": "https://logo.m3uassets.com/setantasports.png",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://stream.mcquack.net/313/index.m3u8"
       },
       {
         "name": "Setanta Sports 1 🇺🇦",
@@ -8746,6 +8837,13 @@
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://stream.mcquack.net/235/index.m3u8"
+      },
+      {
+        "name": "Sport 1 🇺🇦",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport1Ukraine.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://stream.mcquack.net/391/index.m3u8"
       },
       {
         "name": "Sport 1 Baltik 🇺🇦",
@@ -8811,6 +8909,13 @@
         "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8"
       },
       {
+        "name": "Sport 2₂ 🇨🇿⚽️🎾🃏",
+        "logo": "https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp",
+        "group": "All Sports 🌎",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://88.212.15.19/live/sport2_hun/index.m3u8"
+      },
+      {
         "name": "kanal 1 Sport 🇨🇿 🏍🏎️",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/KANAL1SPORT.webp",
         "group": "All Sports 🌎",
@@ -8823,41 +8928,6 @@
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd"
-      },
-      {
-        "name": "Prima Sport 1 🇷🇴",
-        "logo": "https://logo.m3uassets.com/primasport1.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8"
-      },
-      {
-        "name": "Prima Sport 2 🇷🇴",
-        "logo": "https://logo.m3uassets.com/primasport2.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8"
-      },
-      {
-        "name": "Prima Sport 3 🇷🇴",
-        "logo": "https://logo.m3uassets.com/primasport3.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8"
-      },
-      {
-        "name": "Prima Sport 4 🇷🇴",
-        "logo": "https://logo.m3uassets.com/primasport4.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8"
-      },
-      {
-        "name": "Prima Sport 5 🇷🇴",
-        "logo": "https://logo.m3uassets.com/primasport5.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8"
       },
       {
         "name": "Nova Sport 1 🇸🇰",
@@ -8935,20 +9005,6 @@
         "group": "All Sports 🌎",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
-      },
-      {
-        "name": "Turkmenistan Sport 🇹🇲",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8"
-      },
-      {
-        "name": "Turkmenistan Sport 🇹🇲",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png",
-        "group": "All Sports 🌎",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8"
       }
     ],
     "Auto 🏍🏎️": [
@@ -9046,6 +9102,27 @@
         "group": " Music",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dash3.antik.sk/live/mb_classic/index.m3u8"
+      },
+      {
+        "name": "That's 70s",
+        "logo": "https://github.com/iprtl/p1/raw/master/logo/Thats70s.webp",
+        "group": " Music",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/pipAd/f128243bea1c4b46b4cd29ceca92d2b7/playlist.m3u8"
+      },
+      {
+        "name": "That's 80s",
+        "logo": "https://github.com/iprtl/p1/raw/master/logo/Thats80.webp",
+        "group": " Music",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8"
+      },
+      {
+        "name": "That's Rock",
+        "logo": "https://github.com/iprtl/p1/raw/refs/heads/master/logo/ThatsRock.png",
+        "group": " Music",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8"
       },
       {
         "name": "POP World TV",

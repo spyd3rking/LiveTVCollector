@@ -5113,28 +5113,28 @@ http://tv.cloudcdn.me/live.ts?channelId=93740&uid=316&deviceMac=00:1A:79:01:04:A
 http://extraott.com:900/live/3162523972/3791698850/33005.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRoIfCr.png" group-title="BOLA | COPA DEL REY",PREMIER SPORTS FHD
 http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV",06. RCTI 1
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png" group-title="INDONESIA TV",06. RCTI 2
-https://rcti-linier.rctiplus.id/hdntl=exp=1789715925~acl=%2F*~data=hdntl~hmac=e8aae9ac9e4702f194105722c1171e1d25722d8fd6228e722fe7858a3af13f3b/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+http://filex.me:8080/live/3114654477/5787654467/302297.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV",05. MNCTV 2
 http://filex.me:8080/live/3114654477/5787654467/302278.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png" group-title="INDONESIA TV",05. MNCTV 1
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV",08. GTV 2
 http://filex.me:8080/live/3114654477/5787654467/302247.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png" group-title="INDONESIA TV",08. GTV 1
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV",15. INEWS 2
-https://inews-linier.rctiplus.id/hdntl=exp=1789715800~acl=%2F*~data=hdntl~hmac=983736e45092e95546d05783a5bcca6c0ad8b84f500aa8914f98998f2bf88d54/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8
+http://filex.me:8080/live/3114654477/5787654467/501254.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png" group-title="INDONESIA TV",15. INEWS 1
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV",07. SCTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png" group-title="INDONESIA TV",07. SCTV 2
 http://filex.me:8080/live/3114654477/5787654467/302301.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 1
 http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png" group-title="INDONESIA TV",03. INDOSIAR 2
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg" group-title="INDONESIA TV",26. MOJI TV 1
 http://filex.me:8080/live/3114654477/5787654467/302279.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV",20. MENTARI TV 2
+http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png" group-title="INDONESIA TV",20. MENTARI TV 1
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png" group-title="INDONESIA TV",04. TRANS TV 1
@@ -5145,10 +5145,8 @@ http://filex.me:8080/live/3114654477/5787654467/302312.ts
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg" group-title="INDONESIA TV",10. TRANS 7 2
 http://filex.me:8080/live/3114654477/5787654467/302311.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV",02. ANTV 2
-http://filex.me:8080/live/3114654477/5787654467/302206.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png" group-title="INDONESIA TV",02. ANTV 1
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV",12. RTV 2
 http://filex.me:8080/live/3114654477/5787654467/501272.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png" group-title="INDONESIA TV",12. RTV 1
@@ -5166,7 +5164,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnn.png" group-title="INDONESIA TV",16. CNN INDONESIA (FEED)
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png" group-title="INDONESIA TV",17. CNBC INDONESIA (FEED)
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w694817306_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NTQ1Nzc4MDgmd293emF0b2tlbmhhc2g9UFk2MHBOV0o5RFJoeUk0cDFsdHlPRzhZMmhnYmJnanQ1UmRsLVhiSFNWQT0=.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789702265200&wowzatokenhash=9f3SPkpykhy1CwWI86fqvUTdIOscyPIvwMV5kuUza4c%3D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg" group-title="INDONESIA TV",19. VTV
 https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",31. BERITASATU (MAX)
@@ -5647,6 +5645,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="No SignaL 📺",VTV9 SCTV
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺",FS 1 🇺🇸
 http://1tv41.icu:8080/live/aQwbj3/140716/1846.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="No SignaL 📺",FS 2 🇺🇸
@@ -5745,10 +5745,10 @@ http://ktpremium.online:2095/live/Halim8781/Halim8781/932544.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="NasioNaL DiGitaL 📡",RCTI Live Sports 🔵
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="NasioNaL DiGitaL 📡",antv
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="NasioNaL DiGitaL 📡",ANTV - FHD
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="NasioNaL DiGitaL 📡",antv VD
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="NasioNaL DiGitaL 📡",INDOSIAR - FHD
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34327
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="NasioNaL DiGitaL 📡",TransTV - FHD
@@ -6017,6 +6017,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 https://d1vckova5fh9mt.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd|referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png" group-title="NasioNaL DiGitaL 📡",SINPO TV
 https://popmi.my.id/tes.m3u8?id=19046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="NasioNaL DiGitaL 📡",MNC TV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩",aLLplay Ent ⁱ
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nanq6nA.png" group-title="Nasional 🇮🇩",Berita Satu

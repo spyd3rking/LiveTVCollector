@@ -5924,8 +5924,13 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: INDONESIA TV
+Name: 06. RCTI 1
+URL: https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 06. RCTI 2
-URL: https://rcti-linier.rctiplus.id/hdntl=exp=1789715925~acl=%2F*~data=hdntl~hmac=e8aae9ac9e4702f194105722c1171e1d25722d8fd6228e722fe7858a3af13f3b/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
+URL: http://filex.me:8080/live/3114654477/5787654467/302297.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rcti.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -5934,23 +5939,18 @@ URL: http://filex.me:8080/live/3114654477/5787654467/302278.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 05. MNCTV 1
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mnctv.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 08. GTV 2
 URL: http://filex.me:8080/live/3114654477/5787654467/302247.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 08. GTV 1
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/gtv.png
+Name: 15. INEWS 2
+URL: http://filex.me:8080/live/3114654477/5787654467/501254.ts
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 15. INEWS 2
-URL: https://inews-linier.rctiplus.id/hdntl=exp=1789715800~acl=%2F*~data=hdntl~hmac=983736e45092e95546d05783a5bcca6c0ad8b84f500aa8914f98998f2bf88d54/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8
+Name: 15. INEWS 1
+URL: https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/INews.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -5959,7 +5959,7 @@ URL: https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277
 Logo: https://mimipipi22.github.io/logo/nasional/sindonews.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 07. SCTV 1
+Name: 07. SCTV 2
 URL: http://filex.me:8080/live/3114654477/5787654467/302301.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
@@ -5969,14 +5969,14 @@ URL: http://31.43.191.125:8080/live/VIP013901729009150111/f2bed74245dd/34327.m3u
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 03. INDOSIAR 2
-URL: https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 26. MOJI TV 1
 URL: http://filex.me:8080/live/3114654477/5787654467/302279.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/moji.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 20. MENTARI TV 2
+URL: http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 20. MENTARI TV 1
@@ -6004,13 +6004,8 @@ URL: http://filex.me:8080/live/3114654477/5787654467/302311.ts
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 02. ANTV 2
-URL: http://filex.me:8080/live/3114654477/5787654467/302206.ts
-Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 02. ANTV 1
-URL: https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+URL: http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -6055,7 +6050,7 @@ Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnn.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 17. CNBC INDONESIA (FEED)
-URL: https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w694817306_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NTQ1Nzc4MDgmd293emF0b2tlbmhhc2g9UFk2MHBOV0o5RFJoeUk0cDFsdHlPRzhZMmhnYmJnanQ1UmRsLVhiSFNWQT0=.m3u8
+URL: https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789702265200&wowzatokenhash=9f3SPkpykhy1CwWI86fqvUTdIOscyPIvwMV5kuUza4c%3D
 Logo: https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/cnbc.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -11880,13 +11875,13 @@ URL: https://liveplus.rctiplus.id/RTMP-IN.m3u8
 Logo: https://www.visionplus.id/images/repository/426/173426-LOGO-m.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: ANTV - FHD
-URL: http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
-Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png
+Name: antv
+URL: https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+Logo: https://i.imgur.com/RJ31qhO.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: antv VD
-URL: http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+Name: ANTV - FHD
+URL: http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
@@ -12558,6 +12553,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: SINPO TV
 URL: https://popmi.my.id/tes.m3u8?id=19046
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/512px-Sin_Po_TV.svg.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: MNC TV (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+Logo: https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 
@@ -13974,6 +13974,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: VTV9 SCTV
 URL: https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: GTV (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+Logo: https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: FS 1 🇺🇸

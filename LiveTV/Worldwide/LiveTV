@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDE6Mzg6NDggUE0maGFzaF92YWx1ZT1iNWxaOXNIRTNVVy9zWUIrLzdUTXNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjRjZDFjNTUtNGMzZS00ZGZlLTkxOWItMzg1MTMxMjIxYzQ1/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDEwOjU2OjUxIFBNJmhhc2hfdmFsdWU9VXZaNWw2YUFXNC9FOWYzc3prOEhLUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJjMzkxNzY1LWZhNjktNGFmNC1iZjU1LTFjM2ZkYjQ3MTgzNw==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDE6Mzg6NDcgUE0maGFzaF92YWx1ZT0yS3NoYTBhV1pySWR2ZmJmZEFET2pBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmY5MGE1MTUtNTJiYi00YzVjLWEwOGMtZmM5ZGY0MzE4ZTY5/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDEwOjU2OjUwIFBNJmhhc2hfdmFsdWU9cXY3L1JPRFpzMktRMTh6aTc4VC9mdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdkM2VhNzJkLTQ0YTEtNGM3My04OWE2LWJhN2QyNjQyMWEwMQ==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDE6Mzg6NDcgUE0maGFzaF92YWx1ZT0xejluZmU0aDJLcFA1cDErdlYzY2NRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDkwMDMyMTAtOTUxZC00NTFlLWIzYTctYjM4NDdkMWQwNzlm/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI2IDEwOjU2OjUxIFBNJmhhc2hfdmFsdWU9eGV4dHhyL2RITFRQajR3NXdFQkhudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA2MmU4ZWUwLTQ2ZmMtNDliOS1hMjBiLTYwNWI2MjJjZjdhYQ==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3768,6 +3768,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
   },
   {
+    "name": "SOU TV",
+    "type": "Variedades",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
+  },
+  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -3820,12 +3826,6 @@
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8",
     "img": "https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg"
-  },
-  {
-    "name": "TV Brasil Oeste",
-    "type": "Variedades",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
-    "img": "https://i.imgur.com/noqGfuy.png"
   },
   {
     "name": "TV Brasil Sinop",
@@ -3990,6 +3990,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png"
   },
   {
+    "name": "TV Metropole",
+    "type": "Variedades",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "img": "https://i.imgur.com/bJyjLpg.png"
+  },
+  {
     "name": "TV Natal",
     "type": "Variedades",
     "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
@@ -4008,16 +4014,16 @@
     "img": "https://i.imgur.com/0FOmktl.png"
   },
   {
-    "name": "TV Paraense",
-    "type": "Variedades",
-    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
-    "img": "https://duckduckgo.com/i/e408ea02.png"
-  },
-  {
     "name": "TV Passo Fundo",
     "type": "Variedades",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/QFE6TiV.png"
+  },
+  {
+    "name": "TV Petropolis",
+    "type": "Variedades",
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+    "img": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png"
   },
   {
     "name": "TV Profissao",
@@ -10591,12 +10597,6 @@
   },
   {
     "name": "TV Cultura Alternativo 7",
-    "type": "Alternativos",
-    "url": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
-    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
-  },
-  {
-    "name": "TV Cultura Alternativo 8",
     "type": "Alternativos",
     "url": "https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8",
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"

@@ -12592,6 +12592,11 @@ URL: https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_
 Logo: https://i.imgur.com/lU0ESEv.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: Indosiar
+URL: https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+Logo: https://i.imgur.com/CJajHRL.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: Magna Channel
 URL: https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 Logo: https://i.imgur.com/K3Dtbl1.png
@@ -12612,13 +12617,23 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 Logo: https://i.imgur.com/lZO4muM.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: SCTV
+URL: http://vidsemar.pages.dev/terraluna2/204.mpd
+Logo: https://i.imgur.com/8g6gNYB.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: SindoNews TV
 URL: https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 Logo: https://i.imgur.com/lTLsqu2.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: Trans 7
+URL: https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+Logo: https://i.imgur.com/M0uA3Ki.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: Trans TV
-URL: https://visionplus.fazznet.my.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+URL: https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 Logo: https://i.imgur.com/eVuKMF8.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
@@ -20192,6 +20207,16 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
 Group: TV BackUP
+Name: INDOSIAR +
+URL: http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+Logo: http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: SCTV +
+URL: http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+Logo: https://www.mncvision.id/userfiles/image/channel/sctv.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: GTV+ 1
 URL: https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png

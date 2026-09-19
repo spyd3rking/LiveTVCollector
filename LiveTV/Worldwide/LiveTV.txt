@@ -1268,36 +1268,31 @@ Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Cultura Alternativo 2
-URL: http://45.177.114.115/TV_CULTURA/index.m3u8
-Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Cultura Alternativo 3
 URL: http://168.197.104.22/TV_CULTURA/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 4
+Name: TV Cultura Alternativo 3
 URL: http://170.83.16.50/CULTURA/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 5
+Name: TV Cultura Alternativo 4
 URL: http://170.84.165.204/CULTURA_HD/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 6
+Name: TV Cultura Alternativo 5
 URL: http://186.219.52.187/cultura/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 7
+Name: TV Cultura Alternativo 6
 URL: https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 8
+Name: TV Cultura Alternativo 7
 URL: https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
@@ -2642,16 +2637,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo Rede Bahia TV Santa Cruz [FHD]
 URL: https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODIubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo RPC Cascavel [HD]
-URL: https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzMwNTkubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo RPC Londrina [FHD]
-URL: https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzMwNjEubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -6253,7 +6238,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDE6MjozNyBQTSZoYXNoX3ZhbHVlPVRGcFJicjhFb09jWjlPK3ZqQjFSeXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00ZDM4OWM4OC1jNzI1LTQ2OTUtYWI0My03NGUyMWJhMjIwZWQ=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDEwOjQyOjIzIFBNJmhhc2hfdmFsdWU9QlJKeGRkR1BmSy9RTW1naXk1UzRwdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTcwYTQ5Y2UwLTJlYTQtNDc4OC1iMTBkLTgyOWEwYzI5OWY4YQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6566,7 +6551,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDE6MjozOCBQTSZoYXNoX3ZhbHVlPUNIbDh3TmUyZjYxZFJXZTZoV09odUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZjNmNDAxNC0zZjc4LTQ4ZjAtOTBmOC1iNzdjNjRlNzdhNTY=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDEwOjQyOjI0IFBNJmhhc2hfdmFsdWU9aHlzK2N1ZEtGM2VUaWl4cjdTVlAzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNjNTdhNDA3LWNmYjEtNDEyNy1iNGMzLWUxMWUyYzA2Yzc3MA==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6576,7 +6561,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDE6MjozNyBQTSZoYXNoX3ZhbHVlPXBOZlNZMXBUb1JnUlphTDdLVjBBRXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMGZiNWFiMy1jM2FhLTQ0ZDMtODM2YS0wYThlOGI4ZTA0MDE=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDEwOjQyOjIyIFBNJmhhc2hfdmFsdWU9d3Z6ODRGQkhMQU9WNVFUWFN3d1JIZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY3ODc0NWU3LTdhNTYtNDMyOC1hZmJiLWFjMTRlYWEwNmQ0ZQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7354,11 +7339,6 @@ URL: https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/
 Logo: https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Boas Novas
-URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-Logo: https://i.imgur.com/ZqhizdP.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: BS TV
 URL: https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8
 Logo: https://i.postimg.cc/2S9cvNSK/bs-tv.png
@@ -7552,11 +7532,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: NBX TV
 URL: https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 Logo: https://i.postimg.cc/YSLSDYj8/nbx-tv.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Nova Era TV
-URL: http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-Logo: https://i.imgur.com/IK3F9Uq.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Nova TVI Petrópolis
@@ -7767,6 +7742,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Brasil Angola
 URL: https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 Logo: https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Brasil Oeste
+URL: https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+Logo: https://i.imgur.com/noqGfuy.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Brasil Sinop

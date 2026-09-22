@@ -156,7 +156,7 @@ URL: https://jmp2.uk/stvp-US3500007C4
 Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MotoGP_Channel_Amazon_Prime_logo_1920x1080.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: F1 tv (vpn 🇺🇸) 🏎️
+Name: F1 tv  🏎️
 URL: https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
@@ -281,12 +281,12 @@ URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(u
 Logo: https://i.ibb.co/99KrFvMC/UNIVERSO.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Telemundo Chicago 🇲🇽 (vpn 🇺🇸)
+Name: Telemundo Chicago 🇲🇽
 URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 Logo: https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: Telemundo 47 New York 🇲🇽 (vpn 🇺🇸)
+Name: Telemundo 47 New York 🇲🇽
 URL: https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd
 Logo: https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
@@ -319,31 +319,6 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 Name: TUDN 🇲🇽
 URL: https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: ESPN 🇦🇷
-URL: https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: ESPN Premium 🇦🇷
-URL: https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-Logo: https://logo.m3uassets.com/espnpremium.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: FOX Sports 🇦🇷
-URL: https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-Logo: https://github.com/iprtl/p1/raw/master/logo/FoxSportsARYel.webp
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: FOX Sports 2 🇦🇷
-URL: https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-Logo: https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: FOX Sports 3 🇦🇷
-URL: https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-Logo: https://logo.m3uassets.com/foxsports3.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: Fox Sports 4k
@@ -985,11 +960,6 @@ URL: http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
 Logo: https://i.imgur.com/wnYsE3O.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TikTok Radio Brasil Alternativo 1
-URL: https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Travel Box Brazil Alternativo 1
 URL: http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 Logo: https://i.imgur.com/3tBJERH.png
@@ -1051,21 +1021,16 @@ Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Cultura Alternativo 2
-URL: http://45.177.114.115/TV_CULTURA/index.m3u8
-Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Cultura Alternativo 3
 URL: http://168.197.104.22/TV_CULTURA/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 4
+Name: TV Cultura Alternativo 3
 URL: http://186.219.52.187/cultura/index.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cultura Alternativo 5
+Name: TV Cultura Alternativo 4
 URL: https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 Logo: https://i.ibb.co/nm0jXMM/cultura-3x.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
@@ -1241,16 +1206,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: A Corrida Maluca
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yMjUzMjcubTN1OA.m3u8
 Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQ1Qk2rdXLaxDDFVmmxJfLzfZ51.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: A Culpa e da Carlota
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NjMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/e53d84935b563ab1110469e8f04df7e9.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: A Culpa e do Cabral
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NjUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/28831c437a02dd12e848d89e2908ceef.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: A Culpa e do Cabral Na Estrada
@@ -1453,19 +1408,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/ARTE_1.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: As Irmãs Grimm
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NDkubTN1OA.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: As Meninas Superpoderosas
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMzgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/de04b0a79d5ccf0794e513cc8ec345f3.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: As Tartarugas Ninja
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0OTQubTN1OA.m3u8
-Logo: http://paldi.pro/images/ad40a31d0744972a937a8594a85bd226.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: As Visoes da Raven
@@ -1709,7 +1654,7 @@ Logo: http://paldi.pro/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Canal Brasil [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgxNi5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgxNy5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/CANAL_BRASIL.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1793,19 +1738,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Cinemax [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0My5tM3U4.m3u8
+Name: Cinemax [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgzMy5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/CINEMAX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Cirurgioes No Limite da Vida
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NjYubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/a806852c2c2984b0eafb500c6f543485.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: CNBC Brasil [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yOTU0NzcubTN1OA.m3u8
-Logo: http://dns.watchplay.top/images/_73Y-8nAZGll3tPl9vlkgRO6T7j8aP0sKCQF76nvyVtTWbpW6Fpl2CUOFh6BuJearsN7jiZQ2IemeemXku9nZg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: CNN Brasil [4K]
@@ -1846,11 +1786,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Conan: O Menino do Futuro
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NTIubTN1OA.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Corrida Maluca
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDUzNzgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/0db043eab05443c04f574f99cd2417a2.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Cosmos Mundos Possiveis
@@ -1954,7 +1889,7 @@ Logo: https://logos.imperioapps.top/DOGTV.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Dois Homens e Meio
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc2MjkubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc2MjMubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2153,8 +2088,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Food Network [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkzMi5tM3U4.m3u8
+Name: Food Network [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkzNS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/FOOD_NETWORK.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2174,7 +2109,7 @@ Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.pn
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Friends
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTQubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTYubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2189,12 +2124,12 @@ Logo: https://logos.imperioapps.top/FUTURA.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Game of Thrones
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MzQubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MzMubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Game Shakers
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDcubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDkubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2279,7 +2214,7 @@ Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Globo News [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTk5Ny5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTk5OC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/GLOBO_NEWS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2288,8 +2223,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo NSC TV Blumenau [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExOTIubTN1OA.m3u8
+Name: Globo NSC TV Blumenau [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjAwNS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2318,8 +2253,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo RBS TV Bage [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NTIubTN1OA.m3u8
+Name: Globo RBS TV Bage [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NDkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2328,8 +2263,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo RBS TV Cruz Alta [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yMTg4MjcubTN1OA.m3u8
+Name: Globo RBS TV Cruz Alta [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2ODYubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2363,13 +2298,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo RBS TV Uruguaiana [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NzgubTN1OA.m3u8
+Name: Globo RBS TV Uruguaiana [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NzkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo Rede Amazonas Macapa [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwODIubTN1OA.m3u8
+Name: Globo Rede Amazonas Macapa [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwODEubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2408,13 +2343,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo Rede Bahia TV Santa Cruz [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3ODQubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo RJ [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjAyNS5tM3U4.m3u8
+Name: Globo RJ [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExNjMubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2463,8 +2393,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Alvorada do Sul [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwODAubTN1OA.m3u8
+Name: Globo TV Alvorada do Sul [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwNzkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2473,8 +2403,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Anhanguera Itumbiara [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTUubTN1OA.m3u8
+Name: Globo TV Anhanguera Itumbiara [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTMubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2490,6 +2420,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo TV Centro America [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA0OS5tM3U4.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Globo TV Centro America Rondonopolis [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTEubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2518,6 +2453,11 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Globo TV Gazeta Sul [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA2MC5tM3U4.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Globo TV Gazeta Vitoria [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExNTQubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
@@ -2525,6 +2465,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo TV Integracao Araxa [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzEyMDMubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Globo TV Integracao Ituiutaba [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NDcubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2548,13 +2493,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Liberal Maraba [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NzQubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo TV Mirante Imperatriz [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NzYubTN1OA.m3u8
+Name: Globo TV Liberal Maraba [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NzUubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2568,18 +2508,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Paraiba [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3ODEubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo TV Rio Sul [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA3OS5tM3U4.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo TV Sao Francisco [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3ODcubTN1OA.m3u8
+Name: Globo TV Morena Ponta Pora [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NDYubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2590,11 +2520,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo TV Subae [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzMwNjcubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo TV Sudoeste [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA5NC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2628,11 +2553,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Verdes Mares Cariri [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwNzYubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Globoplay Novelas [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjQyNy5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/GLOBOPLAY_NOVELAS.png
@@ -2658,11 +2578,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/612d264f5fd278e8b54163b0dea1f6b1.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Gus O Pequeno Cavaleiro
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTAxMTIubTN1OA.m3u8
-Logo: http://paldi.pro/images/c04478fffdd1d92588d434abcb00a339.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: H2 [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDI0NS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/H2.png
@@ -2673,8 +2588,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/d5df7873f23b5ef2e710cb93336323b7.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: HBO 2 [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDI0Ni5tM3U4.m3u8
+Name: HBO 2 [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/HBO_2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2743,8 +2658,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/8b04aae6a485d7c35696a0476e40d33b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: History [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE0Ni5tM3U4.m3u8
+Name: History [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE0OC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/HISTORY.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2868,11 +2783,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/e8ab7c1be34bca52b535bf0466e17fb0.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Lady Night
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MjAubTN1OA.m3u8
-Logo: http://paldi.pro/images/1838ab4c99e72238736fc3218d7ea753.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Largados e Pelados
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5MjgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
@@ -2988,11 +2898,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/9b567d6f12390e48352d5700f8df5b47.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Monstros no Trabalho
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NTUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/4400dab5097f8d6a186968d8d19aff54.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Mortal Kombat Defensores da Terra
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkyOTkubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/ee0438b4c0f898545422b05f55c523ab.jpg
@@ -3048,8 +2953,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://paldi.pro/static/logos/canais/musicboxbrazil.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: NBA League Pass 5 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDE0ODcubTN1OA.m3u8
+Name: NBA League Pass 5 [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDE0ODgubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/NBA.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3061,11 +2966,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: O Acampamento de Lazlo
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTAxMTMubTN1OA.m3u8
 Logo: http://paldi.pro/images/e1cc5fbe29e328009ba875e156b4f897.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: O Aquario
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NTYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/2631c86660fcf9b8f696555289d2ee0f.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: O Chefinho De Volta aos Negocios
@@ -3223,11 +3123,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Os Incriveis Espioes
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDQubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/42328002e26a63d990d79b254a20cc92.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Os Jetsons
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNjUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/7fb3281f1452aeeec851ae03a1272be9.jpg
@@ -3338,11 +3233,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/f79bcb884e527ee6b4fec8e12ffab733.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Pinha e Pony
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NTkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/9a4dd50a2438e667803f1ee9b746446c.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Pocoyo
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc0MzUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/2018fad929e538912e73b6f75448a1ea.jpg
@@ -3368,13 +3258,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Premiere 4 [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0ODAubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/PREMIERE.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Premiere 5 [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzkubTN1OA.m3u8
+Name: Premiere 4 [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI0NS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3388,13 +3273,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Premiere 8 [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xODAxNjAubTN1OA.m3u8
+Name: Premiere 8 [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xODAxNTgubTN1OA.m3u8
 Logo: http://www.fontedecanais.tv/logos/canais/premiere.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Prime Box Brazil [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzYubTN1OA.m3u8
+Name: Prime Box Brazil [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI2Ny5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/PRIME_BOX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3406,11 +3291,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Quilos Mortais
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY4MjAubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/40e303224a1977f77896cfa33ac3e73e.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Ra e Sapo
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NjAubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/7abafda9d0ed31fbe1979242a135a04b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Record News [4K]
@@ -3438,8 +3318,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/RECORD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: RecordTV Manaus [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwNzAubTN1OA.m3u8
+Name: RecordTV Manaus [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwNzEubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/RECORD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3493,8 +3373,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/RECORD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: RecordTV SP [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83NzY1NC5tM3U4.m3u8
+Name: RecordTV SP [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Mjk3My5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/RECORD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3518,8 +3398,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/REDE_VIDA.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: RedeTV [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI5Ny5tM3U4.m3u8
+Name: RedeTV [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNzg1MzIubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/REDE_TV.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3533,11 +3413,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/c7b1b25c9f2ea801217b643b6cdbe112.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Riquinho
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/89d62f56503439703211a87af5b7d44c.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Rocketeer
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc0MzcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/9fc44d69a72432b4975f944fcb20febe.jpg
@@ -3546,11 +3421,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Rocky e Hudson Os Caubois Gays
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc0MzgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/c6e4ff3b4ba96e7f2a25988fb8334969.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Royal Crackers
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NTgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/7f16beb18cce32ba23f9ca688e4d7b59.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rua Dalmatas 101
@@ -3564,7 +3434,7 @@ Logo: http://paldi.pro/images/f010a91b7b7507f1b681f58dbd426f7e.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Sai de Baixo
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDgubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3593,8 +3463,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/sbt.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: SBT TV Alterosa [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yMTgzNjYubTN1OA.m3u8
+Name: SBT TV Alterosa [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjYyMS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/sbt.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3611,11 +3481,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Sessao de Terapia
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMDYubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Shaman King
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNjIzNzcubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5O1ovLYTkJvisM6d8PgbKq0nQGO.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Shark Tank Brasil
@@ -3643,11 +3508,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/2dea79548308cda88b90aba107ef72ca.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Solar Opposites
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yMjM4MzUubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPClRec0BXzWG7B9jsTdimoeJpM.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Soltos em Floripa
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcwMjgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/f0e2938948d52380ad6a365a13195f29.jpg
@@ -3673,8 +3533,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/SPACE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: SporTV 2 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjMyMS5tM3U4.m3u8
+Name: SporTV 2 [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzIubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/SPORTV2_4K.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3803,19 +3663,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Ta Puxado
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/3daec235aae4221c826efc523a750ca6.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Tapas e Beijos
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMTEubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Taz Mania
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTcubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/b4376ec8f75da613525f521e67e1c1a6.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Telecine Action [FHD]
@@ -3841,6 +3691,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Telecine Touch [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NTQubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/TCTouch.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: The Archie Show
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5NDcubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/09f349cfeee3339b9539889673f0c45c.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: The Big Bang Theory
@@ -3883,14 +3738,19 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://paldi.pro/images/99e1066eb3e8b77343fbb44a8b1ccf8d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TLC [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3My5tM3U4.m3u8
+Name: TLC [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NjUubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/TLC.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TNT [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM3Ny5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/TNT.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TNT Novelas [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NjYubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/TNT_NOVELAS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TNT Series [4K]
@@ -3901,11 +3761,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: To de Graca
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNzgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Todo Mundo Odeia o Chris
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU0NjkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Tom e Jerry
@@ -3923,18 +3778,18 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Top 100 Gospel 2022
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3NzMubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Top 100 Gospel 2024
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3NzUubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Top 100 MPB 2023
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3NzcubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Top 100 MPB 2024
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3NzgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Top 100 Sertanejo 2022
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3NzkubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4008,11 +3863,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/TRAVELBOX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Tres Espias Demais
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/b38fe2f6c5884c6d2de18e4cb0cf86b4.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Tubacao
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MDUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/6a74a588153cb516847d53f2639e819c.jpg
@@ -4023,8 +3873,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/f28ffaadfd02314ad8bf6ab09f06cca7.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Aparecida [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM5NC5tM3U4.m3u8
+Name: TV Aparecida [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NjQubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/APARECIDA.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4069,7 +3919,7 @@ Logo: http://24horas.cc:80/images/ef3f8be13241297b8de6b3eb2f5bef8e.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Um Maluco no Pedaco
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU0NDgubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU0NDUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4891,11 +4741,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Petlovers TV
 URL: https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 Logo: https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Rede NGT
-URL: https://isaocorp.cloudecast.com/ngt/index.m3u8
-Logo: https://i.imgur.com/ZFN1R4B.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Curuca
@@ -5906,7 +5751,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDU6MTI6MTkgQU0maGFzaF92YWx1ZT01QTJDeC9lUjlRV2V3Yk1MMVM1OHFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmFlNjQ2OGMtMDk1ZC00NDRkLWIyZDYtMDdhZTFmODA1NjVm/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDE6MzE6NyBQTSZoYXNoX3ZhbHVlPXVuNGl3Z01WeXBsWTJ3K0t3SnExTGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03OGMxYzgyNi01ZDdmLTRmMDYtYTVkNi0xNmUyZDJhMjJiZjU=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6047,11 +5892,6 @@ URL: https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb
 Logo: https://i.imgur.com/J2EAZPS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Sim Cachoeiro
-URL: https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TVideoNews
 URL: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 Logo: https://i.imgur.com/vstHOYx.png
@@ -6184,7 +6024,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDU6MTI6MTkgQU0maGFzaF92YWx1ZT1uTmNyNjJ0eHZPMkhaT00vQ1Z6VnRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGRkNWYwYTgtMjU3MS00YTc0LWExOTMtMGYwMGZjOTYyZmNk/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDE6MzE6NyBQTSZoYXNoX3ZhbHVlPTQ0S3p3SmNJUnlaNnNqbE8wZnNkanc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02ZGQyYTVkZi0xOTVhLTRmYjItYWM2MS05NzlmM2E2ZDJmNGE=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6194,7 +6034,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDU6MTI6MTggQU0maGFzaF92YWx1ZT1EeHJOYkh1VFRkR3pkbUs5N29tbyt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2Y2YzNlMWUtN2RlNS00NzM5LTk2OGQtMGJiMzY3YTRiNDZk/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI2IDE6MzE6NiBQTSZoYXNoX3ZhbHVlPXpVNEtBQThNNWJsamlIejZUU2xBTHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMWMwOWUwZC04ZWE5LTQ1YzUtYTRmNi1mZDExMmU5ODhiMzc=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6912,11 +6752,6 @@ URL: https://media.cdntvms.com.br/band_sat/index.m3u8
 Logo: https://i.imgur.com/1r5T6Pw.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Boas Novas
-URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-Logo: https://i.imgur.com/ZqhizdP.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Canal 25 Jundiai
 URL: https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 Logo: https://i.imgur.com/7igGMwH.png
@@ -7601,11 +7436,6 @@ URL: https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011.jpeg
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: ABC 9 Manchester 🇺🇸
-URL: https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: Sky News 🇺🇸
 URL: https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 Logo: https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us.png
@@ -7642,7 +7472,7 @@ Logo: https://assets.rbl.ms/61228189/origin.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: NBC News Now 🇺🇸
-URL: https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8?wowzasessionid=@iprtlk
+URL: https://jmp2.uk/stvp-CAAJ2700011IF
 Logo: https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7652,7 +7482,7 @@ Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_south_florid
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CBS News Bay Area 🇺🇸
-URL: https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
+URL: https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FdHA193vxQ_WqZNVoC-W5MA%2Fmaster.m3u8&imafw_csid=desktop_web&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cbsbatarea.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7666,53 +7496,18 @@ URL: https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
 Logo: https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoSVG.svg
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: CBS News Boston 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/59e33a04-bd43-4648-8935-cc2c69485a93:BRU/master.m3u8
-Logo: https://i.imgur.com/9un7R3N.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Minnesota 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/c21da066-f1ee-4a80-89d9-0da66b340141:BRU/master.m3u8
-Logo: https://i.imgur.com/ubxwfMY.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Pittsburgh 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/3a23dce4-a051-4df3-b68d-5e2160e61a09:BRU/master.m3u8
-Logo: https://i.imgur.com/Un9IrUh.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Chicago 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/a5681329-d2d9-472c-bd12-6cc74d912788:BRU/master.m3u8
-Logo: https://i.imgur.com/qGbVQir.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Colorado 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/6d514cc4-936f-4dfa-90fe-64dd6e3170d7:BRU/master.m3u8
-Logo: https://i.imgur.com/2oyYwBw.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Detroit 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/40446618-115e-4e26-95a5-3a140c1ca9cc:BRU/master.m3u8
-Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
-Name: CBS News Los Angeles 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/e8f7f0b6-3042-4fcf-bddd-7feb737883f6:BRU/master.m3u8
-Logo: https://i.imgur.com/klULxMV.png
-Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
---------------------------------------------------
 Name: CBS News Miami 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/d76312b5-1cf8-4e5f-98f2-d671f3e91b06:GRQ/master.m3u8
+URL: https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F_yODrBHESGSzPe3dqW4gGg%2Fmaster.m3u8&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 Logo: https://i.imgur.com/DExbVa9.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CBS News New York 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/f337899f-fe83-4e21-8b91-5e7821814f51:BRU/master.m3u8
+URL: https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FjeTDC610T-OSPdiWhcl0Pg%2Fmaster.m3u8&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
 Logo: https://i.imgur.com/bpc4v0u.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CBS News Philadelphia 🇺🇸
-URL: https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/0d9f5953-cceb-4887-84e9-24e1f99931d2:BRU/master.m3u8
+URL: https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FR2Kw0uvnQIW7fUmOseurzA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
 Logo: https://i.imgur.com/FmtTbNY.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -7726,6 +7521,11 @@ URL: https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 Logo: https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: ABC 9 Manchester 🇺🇸
+URL: https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
+Logo: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wmur/logo.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: ABC News Australia 🇦🇺
 URL: https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/ABCNEWS.webp
@@ -7736,14 +7536,14 @@ URL: https://jmp2.uk/stvp-USBC39000171G
 Logo: https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: ABC 6 Columbus OH 🇺🇸
-URL: https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
-Logo: https://i.imgur.com/Lv6HuCT.png
+Name: ABC 10 Sacramento 🇺🇸
+URL: https://live-manifest.production-public.tubi.io/live/5dbca8cd-ea37-4522-92e3-1a9519821c6e/playlist.m3u8
+Logo: https://www.abc10.com/assets/shared-images/logos/kxtv.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
-Name: ABC 7 Washington DC 🇺🇸
-URL: https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-Logo: https://i.imgur.com/NfqhdBC.png
+Name: ABC News 9 Charlotte NC 🇺🇸
+URL: https://s5host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/playlist.m3u8?ads.cdnhost=s5host4.localnow.api.cms.amdvids.com&ads.playbackid=484413C6-7E6C-46A2-B5AD-77D8F36DF0F9&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=484413C6-7E6C-46A2-B5AD-77D8F36DF0F9&ads.n4=content_name&ads.v4=EPG%20%7C%20WSOC%20Charlotte%209&ads.n21=device_type&ads.v21=&ads.n22=content_type&ads.v22=channel&ads.n23=content_custom_1_param&ads.v23=484413C6-7E6C-46A2-B5AD-77D8F36DF0F9&ads.n24=app_version&ads.v24=0.0.0&ads.n25=url&ads.v25=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n26=channel_genre&ads.v26=News&ads.n27=channel_language&ads.v27=English&ads.n28=network_name&ads.v28=wsoc&ads.n29=h&ads.v29=1080&ads.n30=device_make&ads.v30=&ads.n31=channel_id&ads.v31=484413C6-7E6C-46A2-B5AD-77D8F36DF0F9&ads.n32=channel_ext_id&ads.v32=6227d556b6b5d63856398c62&ads.n33=app_name&ads.v33=&ads.n34=content_livestream&ads.v34=1&ads.n35=channel_title&ads.v35=EPG%20%20WSOC%20Charlotte%209&ads.n36=app_bundle&ads.v36=&ads.n37=channel_corp&ads.v37=Cox%20Broadcasting&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=pos&ads.v39=midroll&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_company_id&ads.v41=AMDP500165&ads.n42=dnt&ads.v42=&ads.n43=content_provider&ads.v43=wsoc&ads.n44=app_store_url&ads.v44=&ads.n45=channel_name&ads.v45=EPG%20%20WSOC%20Charlotte%209&ads.n46=content_custom_2_param&ads.v46=AMDB012160&ads.n47=content_producer_name&ads.v47=Cox%20Broadcasting&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=did&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_brand_id&ads.v51=AMDB012160&ads.n52=ip&ads.v52=181.215.195.227&ads.n53=device_model&ads.v53=&ads.n54=content_custom_3_param&ads.v54=channel&ads.n55=w&ads.v55=1920&ads.n56=ifa_type&ads.v56=
+Logo: https://www.wftv.com/pf/resources/images/sites/cmg-tv-10070/station-logo.png?d=1371
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: ABC 10 Duluth MN 🇺🇸

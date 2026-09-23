@@ -800,6 +800,11 @@ URL: http://186.219.52.187/canal_rural/index.m3u8
 Logo: https://i.imgur.com/w9R9IIX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: COM Brasil Alternativo 1
+URL: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+Logo: https://i.imgur.com/GrjGwKM.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: DumDum Alternativo 1
 URL: http://168.197.104.22/ZOOMOO/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg
@@ -1258,16 +1263,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/ee0b923e8481b85b188a75b2c71a65be.jpeg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: A Beleza Secreta dos Animais
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMTEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: A Bruxinha Sabrina
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5MzUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/d2fbaba85cf896e0ae2fa0a23380fa25.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: A Casa da Coruja
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc0MTEubTN1OA.m3u8
 Logo: http://paldi.pro/images/28cda78d0e5f72916a5e5dd8431a9499.jpg
@@ -1283,11 +1278,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/a92b8be8e85a8138e62c55b7b7b3be1b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: A Cegonha da Perna Fina
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5MzYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/d5659a9f8c9d035f846112351933e474.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: A Culpa e da Carlota
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NjMubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/e53d84935b563ab1110469e8f04df7e9.jpg
@@ -1301,11 +1291,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: A Diarista
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkyNzMubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/8ec3496f0decd062d4399a2540806006.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: A Familia Addams
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5MzcubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/ae9207c30633d7237a1d493554fda351.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: A Familia Dracula
@@ -1353,19 +1338,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/2e7be9bcce6baa27e3dbc51959d34ac1.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: A Turma do Pateta
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTIubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/a4729ab4b20cadd32d9d22d66e883479.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: A Vida Secreta dos Animais
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4MzcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/a65b2b22dd769106d337522aa6173b90.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: A Vila
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3MzAubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/4fc2f584ed2414f2fd6e1003a6c2a8d8.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: A&E [4K]
@@ -1408,14 +1383,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Alf O Eteimoso
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NTAubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/70e8ba9f23fdce063a1229c186040561.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Alien TV
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NzUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/93be26274a468030694b999e4141d0df.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Alienigenas do Passado
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3MzQubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/891b8a72771b87c245b238c702eeabec.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: AMC [FHD]
@@ -1431,11 +1406,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Amphibia
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4MzgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/1e6c62794cd4ae60109677915488adcb.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Ana Pimentinha
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5MzkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/fc872ab390a132e1f3bf97909ccc5c03.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Andy Panda
@@ -1473,11 +1443,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/ARTE_1.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: As Meninas Superpoderosas
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMzgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/de04b0a79d5ccf0794e513cc8ec345f3.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: As Tartarugas Ninja
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0OTQubTN1OA.m3u8
 Logo: http://paldi.pro/images/ad40a31d0744972a937a8594a85bd226.jpg
@@ -1498,11 +1463,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/AXN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Baby Looney Tunes
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/35ebc55951f82fd4acc95299a716393d.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Bake Off Brasil Celebridades
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMTcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/b1a988fde961ed66ca8aebfb62a849dd.jpg
@@ -1519,7 +1479,7 @@ Logo: https://logos.imperioapps.top/BAND.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Band Sports [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgwMS5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgwMi5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/BAND_SPORTS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1568,9 +1528,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/41cd8f00075a918b541c84610dcfe2b1.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Beyblade
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA1NDMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/b4e132cba0f017040678e1bd1b4efb70.jpg
+Name: Beyblade G Revolution
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA1NDUubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/88764691132342ef712026aa85a31888.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Beyblade Metal Fusion
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA1NDYubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/5f15050da92808048cd848caca2e943d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Bibo Pai e Bobi Filho
@@ -1708,29 +1673,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/195c36ad5a6a1793da5ac280f9a9729e.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Cacadores de Bugs
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3NzQubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/15d95b53bffddf1d42623797b44d0492.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Cacadores de Dinossauros
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3NzUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/33686c3090134452378050e8e0c90201.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Cameras Escondidas Silvio Santos
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTIwMTQubTN1OA.m3u8
-Logo: http://paldi.pro/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Canal Brasil [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM1MTgubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/CANAL_BRASIL.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Canal do Boi [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgyMC5tM3U4.m3u8
-Logo: https://logos.imperioapps.top/CANAL_DO_BOI.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Canal Rural [HD]
@@ -1746,16 +1691,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Cartoon Network [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgzMC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/CARTOON_NETWORK.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Casamento as Cegas
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3NzYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/910654d977756de3c872292a066c07ec.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Casamento as Cegas Brasil
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3NzgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/b160d86634c683a62683bd840e8a954d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Castelo Ra-Tim-Bum
@@ -1778,23 +1713,18 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Chaves Em Desenho Animado
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3MzUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/ddef6c327b41ab41bbdf7c316916f0d1.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Chesapeake Shores
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkzMDYubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/927975e84c183bad37470ee83d42d748.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Chuck Norris O Homem da Lei
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3ODAubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0OTcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Cinemax [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgzMy5tM3U4.m3u8
+Name: Cinemax [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0My5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/CINEMAX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1804,7 +1734,7 @@ Logo: http://dns.watchplay.top/images/_73Y-8nAZGll3tPl9vlkgRO6T7j8aP0sKCQF76nvyV
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: CNN Brasil [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgzOC5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgzNy5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/CNN_BRASIL.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1884,17 +1814,17 @@ Logo: http://24horas.cc:80/images/ff24b786a7e00dde77629e0ea374cc1d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Discovery Channel [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2My5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2Mi5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/DISCOVERY.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Discovery H&H [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2Ny5tM3U4.m3u8
+Name: Discovery H&H [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg2OS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/DISCOVERY_H_H.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Discovery Kids [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg3NC5tM3U4.m3u8
+Name: Discovery Kids [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg3MS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/DISCOVERY_KIDS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1913,8 +1843,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/DISCOVERY_TURBO.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Discovery World [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM1MDkubTN1OA.m3u8
+Name: Discovery World [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg4Ny5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/DISCOVERY_WORLD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1956,11 +1886,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Dora Aventureira
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTE5NDkubTN1OA.m3u8
 Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Doug
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NTIubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/979b036ffcad37c3f06e64e36d31daa4.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Doug O Robo Curioso
@@ -2008,11 +1933,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/E.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Ei Arnold
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/1cf489e561de72edd9af10131b5b376a.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: ER Plantao Medico
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwNTAubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/6ce74b82f2b2a66dd45d982bae63fdcf.jpg
@@ -2021,11 +1941,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Escolinha do Professor Raimundo Nova Geracao
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMjgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/800e0bef6df2add7074d67534e412c78.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: ESPN 2 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkyMC5tM3U4.m3u8
-Logo: https://logos.imperioapps.top/ESPN_2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN 3 [4K]
@@ -2048,23 +1963,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/ESPN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Esquadrao Especial Winspector
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTQubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjATkbcmt9dM8LmrwK1u5tFQCRi.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Esquadrao Relampago Changeman
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3NzkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/0cae89c158ecab7b3b1e02ddf083eb7e.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Eu a Patroa e as Criancas
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMjAubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Eurochannel [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MTMubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MTAubTN1OA.m3u8
 Logo: http://paldi.pro/images/e319732e23a51cafb209d07c7a26c615.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2089,7 +1994,7 @@ Logo: http://24horas.cc:80/images/1a66e2ff3a4b962b5158f36f72309be8.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Film&Arts [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MTQubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MjAubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/FILM&ART.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2114,7 +2019,7 @@ Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Friends
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTUubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg4MTQubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/ee6448baccfff38113118133820e13eb.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2123,8 +2028,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/9ddd1c9d9c63b8fda8b5abc8b979832b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Futura [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTk2NC5tM3U4.m3u8
+Name: Futura [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0OTkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/FUTURA.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2134,7 +2039,7 @@ Logo: http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Game Shakers
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDcubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMDgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2233,6 +2138,11 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Globo RBS TV Caxias do Sul [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExMzAubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Globo RBS TV Cruz Alta [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2ODYubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
@@ -2258,8 +2168,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo RBS TV Santa Cruz do Sul [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2MDcubTN1OA.m3u8
+Name: Globo RBS TV Santa Cruz do Sul [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2MDgubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2363,8 +2273,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo SP [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzEyMTIubTN1OA.m3u8
+Name: Globo SP [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA0MC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2378,13 +2288,18 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Anhanguera Itumbiara [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTMubTN1OA.m3u8
+Name: Globo TV Anhanguera Itumbiara [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTQubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Anhanguera Luziania [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NTYubTN1OA.m3u8
+Name: Globo TV Anhanguera Luziania [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NTUubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Globo TV Anhanguera Rio Verde [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NjIubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2400,11 +2315,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo TV Centro America [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA1MC5tM3U4.m3u8
-Logo: https://logos.imperioapps.top/globo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Globo TV Centro America Rondonopolis [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NTAubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2443,8 +2353,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globo TV Grande Rio [SD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NjkubTN1OA.m3u8
+Name: Globo TV Grande Rio [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NjgubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Globo TV Integracao Araxa [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExMjYubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2490,6 +2405,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: Globo TV Morena Ponta Pora [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY2NDUubTN1OA.m3u8
+Logo: https://logos.imperioapps.top/globo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Globo TV Paraiba [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY3NzkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2548,11 +2468,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/globo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Globoplay Novelas [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjQyNy5tM3U4.m3u8
-Logo: https://logos.imperioapps.top/GLOBOPLAY_NOVELAS.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Gloob [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExNTMubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/GLOOB.png
@@ -2578,8 +2493,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://paldi.pro/images/c04478fffdd1d92588d434abcb00a339.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: H2 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjEwNi5tM3U4.m3u8
+Name: H2 [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDI0NS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/H2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2589,7 +2504,7 @@ Logo: http://24horas.cc:80/images/d5df7873f23b5ef2e710cb93336323b7.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: HBO 2 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMC5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExMS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/HBO_2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2628,9 +2543,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/HBO_XTREME.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: He Man e Os Defensores do Universo
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MTQubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
+Name: He Man E Os Mestres do Universo
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1MTYubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/267f1aca98ef975c7b71d78c821e2c2b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: HGTV [4K]
@@ -2649,7 +2564,7 @@ Logo: http://24horas.cc:80/images/8b04aae6a485d7c35696a0476e40d33b.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: History [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE0Ny5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE0Ni5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/HISTORY.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2673,14 +2588,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/abdfa8790e3f97d8ed1e8450740cfdf9.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Jeannie
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTIwMTYubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mcWuaGFgzDzD7VANZio63oyrrzb.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Jellystone
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTY2NTcubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/smfSBRiIYwC7zF7erKXaIPUJbNv.jpg
+Name: Irmaos a Obra
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3ODIubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/8c27a9a2796894e5d6c36d28a00e32cf.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Jessie
@@ -2703,11 +2613,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/6c83815e7901f6e3b41ca26d33767f2a.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Jonny Quest
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1NTAubTN1OA.m3u8
-Logo: http://paldi.pro/images/4528d4deb4e83afd388d87a7d2db7798.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Jornada nas Estrelas Enterprise
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkzMDAubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg
@@ -2716,16 +2621,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Jovem Pan News [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzQwMjEubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/JOVEM_PAN.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Jovem Sheldon
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMjMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/8e00c4bd23067b691e6f943bd3686d7a.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Jovens Construtores
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDcubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/20dd67a55a760c3d8ca8eedeb5ce868d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Jurassic World Acampamento Jurassico
@@ -2738,11 +2633,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/e47763a5ac44b2efb22cebb3a0ca21f9.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Kenan e Kel
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTUubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/88c798031fa25f9c87cfa4f9d1b4b2a2.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Kevin Pode Esperar
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkyNzUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/d98ad142c0f4c03f8f66f8b3e6ebfce1.jpg
@@ -2753,19 +2643,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/c62c915769937b7c65e02a27809ef9bc.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Lab Rats
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/e8ab7c1be34bca52b535bf0466e17fb0.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Lady Night
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1MjAubTN1OA.m3u8
 Logo: http://paldi.pro/images/1838ab4c99e72238736fc3218d7ea753.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Largados e Pelados
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5MjgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: League Cup [FHD]
@@ -2818,11 +2698,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/6cb80ea8c36ee3711e08d8fb156748a1.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Master Trash e Panicos Chef
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3OTAubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/3e9427d99daf2b556221820eb698b772.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Masterchef Brasil
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNDYubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg
@@ -2868,11 +2743,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tgRogmpbKXso0yzEdR9ZPneL78a.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Mister Brau
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/0451a159ca67980f36e1b44b714cf241.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Modo Viagem [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0ODgubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/MODO_VIAGEM.png
@@ -2888,19 +2758,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/9b567d6f12390e48352d5700f8df5b47.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Monstro do Amor
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTE2MjAubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m8PgssCvSOI1o17pdVw8rkAixTP.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Monstros no Trabalho
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NTUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/4400dab5097f8d6a186968d8d19aff54.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Mucha Lucha
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTIubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/76f472c867c6cae1d3f0d382e3a3900f.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Multishow [4K]
@@ -2921,11 +2781,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: NBA League Pass 5 [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDE0ODgubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/NBA.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Nicky Ricky Dicky e Dawn
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5MzkubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Nilba e os Desastronautas
@@ -2953,34 +2808,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/207627bdc379804843b06b2ccb3ea26d.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: O Fantastico Mundo de Bobby
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDAubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/b0a87618689450e77c7653b51ded5785.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: O Laboratorio de Dexter
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTAxMTQubTN1OA.m3u8
 Logo: http://paldi.pro/images/7df8069ca10b3f348c4ad6a8acef0e60.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: O Marinheiro Popeye
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5NDMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: O Mundo Maravilhoso de Mickey Mouse
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTE2MjEubTN1OA.m3u8
 Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/luOC3wRRJBUvP8x8mpnNXkLTXCp.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: O Novo Show do Pica Pau
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDUzODEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/f79bcb884e527ee6b4fec8e12ffab733.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: O Rancho
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTYubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/2eca1eb67060a6f3975109a5c23ca684.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: O Show de Tom e Jerry
@@ -3003,8 +2838,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://paldi.pro/images/417e7084c523b352e691462e841ac184.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: OFF [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjIwOS5tM3U4.m3u8
+Name: OFF [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjIxMS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/OFF.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3041,11 +2876,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Os Cavaleiros do Zodiaco - Alma de Ouro
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMzUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/9f1aee7c3e06dbe29b0739b5593a57b8.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Os Cavaleiros do Zodiaco - Omega
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NTQubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/d2191aad1b6d986467dbea8c523902f6.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Os Cavaleiros do Zodiaco - Saga de Asgard
@@ -3098,6 +2928,11 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/3940a20bb5eb7095f88f7424610bd167.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Os Incriveis Espioes
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDQubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/42328002e26a63d990d79b254a20cc92.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Os Jetsons
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNjUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/7fb3281f1452aeeec851ae03a1272be9.jpg
@@ -3113,14 +2948,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/f1cf4a6f9102f64075948c82c8d57e6f.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Os Padrinhos Magicos
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NDYubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/0e8515b81340f328f4fb962042f41c17.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Os Roni
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NjQubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/7ca5c3d61f0e485f679f6e1a6a891077.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Os Simpsons
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU2MDEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Os Ursinhos Carinhosos
@@ -3143,8 +2978,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://www.fontedecanais.one/logos/canais/paramountplus.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Paramount Plus 1 [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM1MjQubTN1OA.m3u8
+Name: Paramount Plus 1 [FHD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Mjk3Ny5tM3U4.m3u8
 Logo: https://www.fontedecanais.one/logos/canais/paramountplus.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3161,11 +2996,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Paramount Plus 4 [4K]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM1MjEubTN1OA.m3u8
 Logo: https://www.fontedecanais.one/logos/canais/paramountplus.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Patrulha Canina
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NDcubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/51a9a083b2e5c7f4babdd23e639dddab.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Pe na Cova
@@ -3188,18 +3018,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/9a4dd50a2438e667803f1ee9b746446c.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Pokemon
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg3OTEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Premiere 1 [FHD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI2Mi5tM3U4.m3u8
 Logo: http://www.fontedecanais.tv/logos/canais/premiere.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Premiere 2 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjIzNy5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjIzOC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3223,8 +3048,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Premiere 7 [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI1Ny5tM3U4.m3u8
+Name: Premiere 7 [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI1OS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/PREMIERE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3348,6 +3173,11 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/c7b1b25c9f2ea801217b643b6cdbe112.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Riquinho
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NDYubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/89d62f56503439703211a87af5b7d44c.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Rocketeer
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzc0MzcubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/9fc44d69a72432b4975f944fcb20febe.jpg
@@ -3394,7 +3224,7 @@ Logo: https://logos.imperioapps.top/sbt.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SBT SP [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83Nzk2My5tM3U4.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDQ5MzkubTN1OA.m3u8
 Logo: https://logos.imperioapps.top/sbt.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3468,11 +3298,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/SPACE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: SporTV 2 [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzIubTN1OA.m3u8
-Logo: https://logos.imperioapps.top/SPORTV2_4K.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: SporTV 3 [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExMTMubTN1OA.m3u8
 Logo: http://logos.imperioapps.top/SPORTV3.png
@@ -3543,6 +3368,11 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/38ffa52836c85139efb44a7b9095e705.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Street Fighter II Victory
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTQ3NTkubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/611af159afd78bdca20d965c8ca9400b.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Studio Universal [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjMzNi5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/STUDIO_UNIVERSAL.png
@@ -3574,7 +3404,7 @@ Logo: http://paldi.pro/images/5f04abca388f9d3b1005642b28246a5f.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Supernatural
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY3MjYubTN1OA.m3u8
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzY3NDkubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3588,9 +3418,9 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/15e33e0696bca298b9d73aa66f162fcf.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Tapas e Beijos
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxMTEubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/c2dbafa12cdd41b1a384ea0b5bd88e45.jpg
+Name: Taz Mania
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA3NTcubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/b4376ec8f75da613525f521e67e1c1a6.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Telecine Action [FHD]
@@ -3608,8 +3438,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/TCFun.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Telecine Premium [FHD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM2Mi5tM3U4.m3u8
+Name: Telecine Premium [4K]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDIzNy5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/TCPremium.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3638,11 +3468,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/7e47961ec482b8206a3a15d3a04967b2.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Tico e Teco Vida no Parque
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU0OTMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/50bcf817fcbca03c6d9af1d7ae335218.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Tigue E Lupa Os Detetives
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDk1NDMubTN1OA.m3u8
 Logo: http://paldi.pro/images/99e1066eb3e8b77343fbb44a8b1ccf8d.jpg
@@ -3658,8 +3483,8 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: https://logos.imperioapps.top/TNT.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TNT Novelas [4K]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NjYubTN1OA.m3u8
+Name: TNT Novelas [HD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM0NC5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/TNT_NOVELAS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3671,11 +3496,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: To de Graca
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNzgubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/8817e6705ba7075d6979b21a7e95cae2.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Toma La da Ca
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5MzgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/66bb24fdcfff071d3ab11afdca24ca68.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Top 100 Catolicas 2021
@@ -3698,14 +3518,14 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Top 100 Spotify 2021
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA0OTYubTN1OA.m3u8
+Name: Top 100 Sertanejo 2023
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTM3ODAubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Top Chef Brasil
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDU5NDgubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/c141db28409f6d336d5246dfb6c30080.jpg
+Name: Top 100 Spotify 2021
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNDA0OTYubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Top Wing
@@ -3721,6 +3541,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Transformers
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzU1NTUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/f127d98d63c5eba6409a894893ebe686.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Transformers Cyberverse
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8yNTUyMzQubTN1OA.m3u8
+Logo: http://24horas.cc:80/images/9cf8d303cd7338f19193b729c54385d3.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Transformers War for Cybertron O Cerco
@@ -3798,11 +3623,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/f646272b000cc74c9d414cf851da5b6a.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Uma Familia da Pesada
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTU0NTQubTN1OA.m3u8
-Logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Uma Maldicao de Familia
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zMDY4NjUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/4e46940f1bd9c600d8e183f38776368b.jpg
@@ -3843,11 +3663,6 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://24horas.cc:80/images/6cd38cab47257e88353ea1667ef021fd.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Velozes e Furiosos Espioes do Asfalto
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDIubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/19aa3d70a53e70971611a283ab7389ac.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Warner Channel [HD]
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0OS5tM3U4.m3u8
 Logo: https://logos.imperioapps.top/WARNER_CHANNEL.png
@@ -3858,18 +3673,13 @@ URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3R
 Logo: http://paldi.pro/static/logos/canais/woohoo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: X Men Evolution
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzg5NDMubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/a5edc13c2a48f92a040982a7a207a0fc.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: X Men Serie Animada
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzcxNzMubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/cc330d7feae6846b85f3ba3bc070991c.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: X Sports [HD]
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNDA0NTAubTN1OA.m3u8
+Name: X Sports [SD]
+URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNDA0NTEubTN1OA.m3u8
 Logo: https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3881,11 +3691,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Yabba Dabba Dinossauros
 URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzkzMDUubTN1OA.m3u8
 Logo: http://24horas.cc:80/images/5a2da2da44949249b753d0fce9d6cd4b.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Yu-Gi-Oh - Duel Monsters
-URL: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwMTIubTN1OA.m3u8
-Logo: http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Zoomoo [4K]
@@ -5621,7 +5426,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDQ6NTY6MzggQU0maGFzaF92YWx1ZT04UUNYcFppN2ZobnRFdnpWamZpcXBnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I4ZjhkODYtNDYwNC00NDBiLTg1ZWUtNTFlZThhYWYxMDQ4/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTAgUE0maGFzaF92YWx1ZT1ONGU4TDRWeVV4SGpmUE1McHlrVDZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTgwMjM2YzctN2UxZS00ZGNhLWEyYmEtMjQwNmYyZDRlOGIy/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -5899,7 +5704,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDQ6NTY6MzkgQU0maGFzaF92YWx1ZT1EL0RPMk51QWtoOGhlalo0UzZXTXZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTA2MjM2ZTMtZTBmYi00ZjVkLTkyYTgtYjNiOWZlMmQ4MjNl/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTEgUE0maGFzaF92YWx1ZT1ZM0Nad0liOG5Wb2xMTzloNlJZOTJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDhhNjI3NTMtY2JiNC00NWM3LTg4NzQtNzEyZWI2MGU5YmNl/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -5909,7 +5714,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDQ6NTY6MzggQU0maGFzaF92YWx1ZT1PVHl3Y1UzYjJRWEZiWTBrQU5rVG1RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTcxZjQ5ZDYtNTcxNS00MjI0LThmZWEtYzg1MGI2MmUxNGYz/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDE6NDQ6NTAgUE0maGFzaF92YWx1ZT1uUHVUL2JEcGxWMklQV0lpUzM0WGNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDg3Y2Y1YjYtOTNkMy00NDViLThhNDYtYTgxYWQ5MTlmMGIx/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -6703,7 +6508,7 @@ Logo: https://i.postimg.cc/x1wPhzpF/clouding_tv_2.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: COM Brasil
-URL: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+URL: https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 Logo: https://i.imgur.com/GrjGwKM.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
